@@ -1,1228 +1,2057 @@
 [
-    {
-      "name": "Jessica Chastain",
-      "birth_date": "March 24, 1977",
-      "birth_place": "Sacramento, California, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Producer"],
-      "notable_awards": ["Academy Award", "Golden Globe"],
-      "details": "Jessica Chastain is known for her work in film and theatre, often focusing on projects with feminist themes. She founded Freckle Films to promote diversity in film and has been vocal about mental health, gender, and racial equality." 
-    },
-    {
-      "name": "Meat Loaf",
-      "birth_date": "September 27, 1947",
-      "death_date": "January 20, 2022",
-      "birth_place": "Dallas, Texas, USA",
-      "nationality": "American",
-      "occupation": ["Singer", "Actor"],
-      "notable_roles": ["The Rocky Horror Picture Show", "Fight Club"],
-      "details": "Meat Loaf, born Marvin Lee Aday, was known for his powerful voice and theatrical performances. His notable film roles included Eddie in 'The Rocky Horror Picture Show' and Robert Paulson in 'Fight Club'."
-    },
-    {
-      "name": "Robert Duvall",
-      "birth_date": "January 5, 1931",
-      "birth_place": "San Diego, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Director"],
-      "notable_awards": ["Academy Award", "Golden Globe"],
-      "details": "Robert Duvall is a legendary actor known for his performances in films such as 'The Godfather' and 'Tender Mercies'. He has received numerous accolades, including an Academy Award for Best Actor for 'Tender Mercies'."
-    },
-    {
-      "name": "Elliot Page",
-      "birth_date": "February 21, 1987",
-      "birth_place": "Halifax, Nova Scotia, Canada",
-      "nationality": "Canadian",
-      "occupation": ["Actor", "Producer"],
-      "notable_awards": ["Gemini Award", "Human Rights Campaign Vanguard Award"],
-      "details": "Elliot Page is known for his performances in films such as 'Juno' and 'Inception'. He is a vocal advocate for LGBTQ rights and came out as transgender in 2020, becoming the first openly trans man to appear on the cover of Time magazine."
-    },
-    {
-      "name": "Aaron Eckhart",
-      "birth_date": "March 12, 1968",
-      "birth_place": "Cupertino, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["The Dark Knight", "Thank You for Smoking"],
-      "details": "Aaron Eckhart gained recognition for his roles in films like 'In the Company of Men' and 'Erin Brockovich'. He is best known for his portrayal of Harvey Dent/Two-Face in 'The Dark Knight'."
-    },
-    {
-      "name": "Richard Ayoade",
-      "birth_date": "May 23, 1977",
-      "birth_place": "Hammersmith, London, England",
-      "nationality": "British",
-      "occupation": ["Comedian", "Actor", "Writer", "Director", "Presenter"],
-      "notable_awards": ["BAFTA for Best Male Comedy Performance"],
-      "details": "Richard Ayoade is known for his role as Maurice Moss in 'The IT Crowd' and has worked extensively in comedy, both as a writer and director. He has directed films like 'Submarine' and presented shows such as 'Travel Man' and 'The Crystal Maze'."
-    },
-    {
-      "name": "Tom Sizemore",
-      "birth_date": "November 29, 1961",
-      "death_date": "March 3, 2023",
-      "birth_place": "Detroit, Michigan, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["Saving Private Ryan", "Heat", "Black Hawk Down"],
-      "details": "Tom Sizemore was known for his performances in action and crime dramas, including 'Saving Private Ryan' and 'Black Hawk Down'. Despite a prolific career, his struggles with addiction impacted his career. He also lent his voice to the character Sonny Forelli in the game 'Grand Theft Auto: Vice City'."
-    },
-    {
-      "name": "Henry Fonda",
-      "birth_date": "May 16, 1905",
-      "death_date": "August 12, 1982",
-      "birth_place": "Grand Island, Nebraska, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Actor", "BAFTA for Best Foreign Actor"],
-      "details": "Henry Fonda was an iconic American actor known for embodying the 'everyman' on screen. His career spanned over five decades, including roles in '12 Angry Men', 'On Golden Pond', and 'The Grapes of Wrath'. He won the Academy Award for Best Actor for his role in 'On Golden Pond'."
-    },
-    {
-      "name": "Eli Wallach",
-      "birth_date": "December 7, 1915",
-      "death_date": "June 24, 2014",
-      "birth_place": "Brooklyn, New York City, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["BAFTA Award", "Tony Award"],
-      "details": "Eli Wallach was a distinguished character actor with a career spanning over six decades. He was known for roles in 'The Magnificent Seven' and 'The Good, the Bad and the Ugly'. Wallach was a prominent stage actor and a founding member of the Actors Studio."
-    },
-    {
-      "name": "Uma Thurman",
-      "birth_date": "April 29, 1970",
-      "birth_place": "Boston, Massachusetts, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Model"],
-      "notable_roles": ["Pulp Fiction", "Kill Bill"],
-      "details": "Uma Thurman is known for her versatile roles in films such as Quentin Tarantino's 'Pulp Fiction' and the 'Kill Bill' series. She has received numerous accolades and is recognized for her work in both independent films and blockbusters."
-    },
-    {
-      "name": "Kang-ho Song",
-      "birth_date": "January 17, 1967",
-      "birth_place": "Gimhae, South Korea",
-      "nationality": "South Korean",
-      "occupation": ["Actor"],
-      "notable_awards": ["Blue Dragon Film Award", "Asian Film Award"],
-      "details": "Kang-ho Song is one of South Korea's most renowned actors, known for his performances in 'Parasite', 'Snowpiercer', and 'The Host'. He frequently collaborates with directors Bong Joon-ho and Park Chan-wook and is celebrated for his dynamic acting skills."
-    },
-    {
-      "name": "Thomas Kretschmann",
-      "birth_date": "September 8, 1962",
-      "birth_place": "Dessau, East Germany (now Germany)",
-      "nationality": "German",
-      "occupation": ["Actor", "Model"],
-      "notable_roles": ["The Pianist", "Resident Evil: Apocalypse", "King Kong"],
-      "details": "Thomas Kretschmann started his career in German television and films before transitioning to Hollywood. He gained recognition for roles in 'The Pianist' and 'Downfall'. Kretschmann has also played Baron von Strucker in Marvel films and has worked as a model for Hugo Boss." 
-    },
-    {
-      "name": "Orlando Bloom",
-      "birth_date": "January 13, 1977",
-      "birth_place": "Canterbury, Kent, England",
-      "nationality": "British",
-      "occupation": ["Actor"],
-      "notable_roles": ["The Lord of the Rings", "Pirates of the Caribbean"],
-      "details": "Orlando Bloom rose to fame with his roles as Legolas in 'The Lord of the Rings' and Will Turner in 'Pirates of the Caribbean'. He has been an advocate for environmental causes and serves as a UNICEF Goodwill Ambassador."
-    },
-    {
-      "name": "Anna Gunn",
-      "birth_date": "August 11, 1968",
-      "birth_place": "Cleveland, Ohio, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_awards": ["Primetime Emmy Award"],
-      "details": "Anna Gunn is best known for her role as Skyler White in 'Breaking Bad', for which she won two Primetime Emmy Awards. She has also starred in 'Deadwood' and 'Sully', and has appeared in theatre productions such as 'The Night of the Iguana'." 
-    },
-    {
-      "name": "Katherine Parkinson",
-      "birth_date": "March 9, 1978",
-      "birth_place": "Hounslow, London, England",
-      "nationality": "British",
-      "occupation": ["Actress", "Playwright"],
-      "notable_awards": ["BAFTA Television Award"],
-      "details": "Katherine Parkinson is known for her role as Jen Barber in 'The IT Crowd', for which she won a BAFTA Award. She has also worked extensively in theatre and appeared in series such as 'Defending the Guilty'. In 2021, she adapted her play 'Sitting' for BBC Four."
-    },
-    {
-      "name": "Clint Eastwood",
-      "birth_date": "May 31, 1930",
-      "birth_place": "San Francisco, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Director", "Producer", "Composer"],
-      "notable_awards": ["Academy Awards", "Golden Globe Awards"],
-      "details": "Clint Eastwood is a legendary actor and filmmaker known for his roles in 'The Good, the Bad and the Ugly' and 'Dirty Harry'. As a director, he won Academy Awards for 'Unforgiven' and 'Million Dollar Baby'. Eastwood has had a career spanning more than six decades, and he is also known for his work as a composer." 
-    },
-    {
-      "name": "Glenn Howerton",
-      "birth_date": "April 13, 1976",
-      "birth_place": "Japan",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer", "Writer"],
-      "notable_roles": ["It's Always Sunny in Philadelphia"],
-      "details": "Glenn Howerton is best known for his role as Dennis Reynolds in 'It's Always Sunny in Philadelphia', a show he also writes and produces. He has also appeared in 'A.P. Bio' and 'The Mindy Project'."
-    },
-    {
-      "name": "Samuel L. Jackson",
-      "birth_date": "December 21, 1948",
-      "birth_place": "Washington, D.C., USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer"],
-      "notable_awards": ["Academy Honorary Award", "BAFTA Award for Best Supporting Actor"],
-      "details": "Samuel L. Jackson is one of the most recognized actors of his generation and has appeared in over 150 films. He is known for roles in movies such as 'Pulp Fiction', 'Die Hard with a Vengeance', and the Marvel Cinematic Universe as Nick Fury. He received an Academy Honorary Award in 2022 and became a naturalized citizen of Gabon in 2019."
-    },
-    {
-      "name": "Carrie-Anne Moss",
-      "birth_date": "August 21, 1967",
-      "birth_place": "Vancouver, British Columbia, Canada",
-      "nationality": "Canadian",
-      "occupation": ["Actress"],
-      "notable_awards": ["Independent Spirit Award for Best Supporting Female"],
-      "details": "Carrie-Anne Moss rose to international fame as Trinity in 'The Matrix' series. She has appeared in numerous films, including 'Memento', 'Chocolat', and 'Disturbia'. Moss is recognized for her action roles and strong on-screen presence."
-    },
-    {
-      "name": "Edward Furlong",
-      "birth_date": "August 2, 1977",
-      "birth_place": "Glendale, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["Terminator 2: Judgment Day", "American History X"],
-      "details": "Edward Furlong gained fame as John Connor in 'Terminator 2: Judgment Day'. He later starred in 'American History X' and 'Detroit Rock City'. His career has had ups and downs, marked by personal struggles and legal issues."
-    },
-    {
-      "name": "Joe Pesci",
-      "birth_date": "February 9, 1943",
-      "birth_place": "Newark, New Jersey, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Musician"],
-      "notable_awards": ["Academy Award for Best Supporting Actor"],
-      "details": "Joe Pesci is known for his roles in films such as 'Goodfellas', 'Raging Bull', and 'Home Alone'. He won an Academy Award for his performance in 'Goodfellas'. Pesci has a distinctive acting style, often portraying volatile characters."
-    },
-    {
-      "name": "Scarlett Johansson",
-      "birth_date": "November 22, 1984",
-      "birth_place": "New York City, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Singer"],
-      "notable_awards": ["BAFTA Award for Best Actress", "Tony Award"],
-      "details": "Scarlett Johansson is one of the highest-paid actresses in the world, known for roles in 'Lost in Translation', 'Marriage Story', and as Black Widow in the Marvel Cinematic Universe. She has received numerous accolades, including a BAFTA Award."
-    },
-    {
-      "name": "Steve Carell",
-      "birth_date": "August 16, 1962",
-      "birth_place": "Concord, Massachusetts, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Comedian", "Producer"],
-      "notable_awards": ["Golden Globe Award"],
-      "details": "Steve Carell gained fame for his role as Michael Scott in 'The Office'. He has also starred in films such as 'The 40-Year-Old Virgin', 'Foxcatcher', and 'Beautiful Boy'. Carell has been praised for both his comedic and dramatic performances."
-    },
-    {
-      "name": "Michael Ontkean",
-      "birth_date": "January 24, 1946",
-      "birth_place": "Vancouver, British Columbia, Canada",
-      "nationality": "Canadian",
-      "occupation": ["Actor"],
-      "notable_roles": ["Twin Peaks", "Slap Shot"],
-      "details": "Michael Ontkean is best known for his role as Sheriff Harry S. Truman in 'Twin Peaks' and for starring in the sports comedy 'Slap Shot'. He retired from acting in the early 2000s and declined to return for the 'Twin Peaks' revival."
-    },
-    {
-      "name": "Carrie Fisher",
-      "birth_date": "October 21, 1956",
-      "death_date": "December 27, 2016",
-      "birth_place": "Burbank, California, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Writer"],
-      "notable_awards": ["Grammy Award for Best Spoken Word Album"],
-      "details": "Carrie Fisher gained fame as Princess Leia in the 'Star Wars' series. She was also an accomplished writer, known for 'Postcards from the Edge' and her one-woman play 'Wishful Drinking'. Fisher was a vocal advocate for mental health awareness and openly discussed her struggles with bipolar disorder and addiction." 
-    },
-    {
-      "name": "Matthew Broderick",
-      "birth_date": "March 21, 1962",
-      "birth_place": "Manhattan, New York City, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Tony Award for Best Featured Actor in a Play"],
-      "details": "Matthew Broderick is best known for his roles in 'Ferris Bueller's Day Off', 'WarGames', and 'The Lion King' as the voice of Simba. He is also known for his Broadway career, winning a Tony Award for 'Brighton Beach Memoirs' and being inducted into the American Theater Hall of Fame in 2017."
-    },
-    {
-      "name": "John Krasinski",
-      "birth_date": "October 20, 1979",
-      "birth_place": "Newton, Massachusetts, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Director", "Producer"],
-      "notable_awards": ["Screen Actors Guild Award"],
-      "details": "John Krasinski is known for his role as Jim Halpert on 'The Office'. He made his directorial debut with 'Brief Interviews with Hideous Men' and gained further recognition for directing and starring in 'A Quiet Place'. Krasinski also portrayed Jack Ryan in the Amazon Prime series 'Jack Ryan'."
-    },
-    {
-      "name": "Dominic West",
-      "birth_date": "October 15, 1969",
-      "birth_place": "Sheffield, South Yorkshire, England",
-      "nationality": "British",
-      "occupation": ["Actor"],
-      "notable_awards": ["Critics' Choice Television Award"],
-      "details": "Dominic West is known for his roles in 'The Wire' as Detective Jimmy McNulty and in 'The Affair', for which he received critical acclaim. He has also appeared in films such as '300' and 'Tomb Raider'."
-    },
-    {
-      "name": "Courteney Cox",
-      "birth_date": "June 15, 1964",
-      "birth_place": "Birmingham, Alabama, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Producer"],
-      "notable_awards": ["Screen Actors Guild Award"],
-      "details": "Courteney Cox gained fame as Monica Geller on the sitcom 'Friends'. She also starred in the 'Scream' film series and 'Cougar Town', which earned her a Golden Globe nomination. Cox has also produced various shows, including 'Dirt' and '9 Months with Courteney Cox'."
-    },
-    {
-      "name": "Marlon Brando",
-      "birth_date": "April 3, 1924",
-      "death_date": "July 1, 2004",
-      "birth_place": "Omaha, Nebraska, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Actor"],
-      "details": "Marlon Brando is regarded as one of the greatest actors in cinema history, known for his roles in 'A Streetcar Named Desire', 'On the Waterfront', and 'The Godfather'. He won two Academy Awards and was an advocate for civil rights and Native American rights."
-    },
-    {
-      "name": "Joaquin Phoenix",
-      "birth_date": "October 28, 1974",
-      "birth_place": "San Juan, Puerto Rico",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award", "Golden Globe", "Grammy"],
-      "details": "Joaquin Phoenix is known for his roles in films such as 'Gladiator', 'Walk the Line', and 'Joker', for which he won the Academy Award for Best Actor in 2020. He is also an animal rights activist and has been vegan since childhood."
-    },
-    {
-      "name": "Matthew McConaughey",
-      "birth_date": "November 4, 1969",
-      "birth_place": "Uvalde, Texas, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Actor"],
-      "details": "Matthew McConaughey gained fame with 'Dazed and Confused' and went on to star in many romantic comedies before transitioning to more dramatic roles, earning an Academy Award for his role in 'Dallas Buyers Club'. He is also known for his memoir, 'Greenlights'."
-    },
-    {
-      "name": "Lorraine Bracco",
-      "birth_date": "October 2, 1954",
-      "birth_place": "Brooklyn, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_awards": ["Emmy Award nominations", "Golden Globe nominations"],
-      "details": "Lorraine Bracco is best known for her role as Dr. Jennifer Melfi on 'The Sopranos', for which she received multiple Emmy and Golden Globe nominations. She also played Karen Hill in 'Goodfellas'."
-    },
-    {
-      "name": "Brad Pitt",
-      "birth_date": "December 18, 1963",
-      "birth_place": "Shawnee, Oklahoma, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer"],
-      "notable_awards": ["Academy Awards", "Golden Globe Awards"],
-      "details": "Brad Pitt is an acclaimed actor and producer known for films such as 'Fight Club', 'Once Upon a Time in Hollywood', and '12 Years a Slave'. He has received numerous awards, including Academy Awards for both acting and producing."
-    },
-    {
-      "name": "Donna Reed",
-      "birth_date": "January 27, 1921",
-      "death_date": "January 14, 1986",
-      "birth_place": "Denison, Iowa, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_awards": ["Academy Award for Best Supporting Actress"],
-      "details": "Donna Reed was a beloved actress known for her roles in 'It's a Wonderful Life' and 'From Here to Eternity', for which she won an Academy Award. She also starred in the popular TV series 'The Donna Reed Show'."
-    },
-    {
-      "name": "Harrison Ford",
-      "birth_date": "July 13, 1942",
-      "birth_place": "Chicago, Illinois, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["AFI Life Achievement Award"],
-      "details": "Harrison Ford is famous for his iconic roles as Han Solo in 'Star Wars' and Indiana Jones in the 'Indiana Jones' series. He has had a career spanning several decades, becoming one of Hollywood's most enduring stars."
-    },
-    {
-      "name": "Michael Imperioli",
-      "birth_date": "March 26, 1966",
-      "birth_place": "Mount Vernon, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Writer", "Musician"],
-      "notable_awards": ["Primetime Emmy Award"],
-      "details": "Michael Imperioli is known for his role as Christopher Moltisanti on 'The Sopranos', for which he won a Primetime Emmy Award. He has also worked as a writer and musician, and recently appeared in the HBO series 'The White Lotus'."
-    },
-    {
-      "name": "Martin Balsam",
-      "birth_date": "November 4, 1919",
-      "death_date": "February 13, 1996",
-      "birth_place": "The Bronx, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Supporting Actor"],
-      "details": "Martin Balsam was known for his versatile acting in films such as '12 Angry Men', 'Psycho', and 'A Thousand Clowns', the latter of which earned him an Academy Award. He had a long career in film, television, and theatre, and was known for his role in 'Archie Bunker's Place'." 
-    },
-    {
-      "name": "Morgan Freeman",
-      "birth_date": "June 1, 1937",
-      "birth_place": "Memphis, Tennessee, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer", "Narrator"],
-      "notable_awards": ["Academy Award for Best Supporting Actor"],
-      "details": "Morgan Freeman is an acclaimed actor known for his distinctive voice and roles in films such as 'The Shawshank Redemption', 'Driving Miss Daisy', and 'Million Dollar Baby', for which he won an Academy Award. He is also known for his work as a narrator in documentaries."
-    },
-    {
-      "name": "Elijah Wood",
-      "birth_date": "January 28, 1981",
-      "birth_place": "Cedar Rapids, Iowa, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer"],
-      "notable_roles": ["The Lord of the Rings Trilogy"],
-      "details": "Elijah Wood is best known for his role as Frodo Baggins in 'The Lord of the Rings' trilogy. He began his career as a child actor and has also worked as a producer, founding his production company SpectreVision, which focuses on horror films."
-    },
-    {
-      "name": "Lee Van Cleef",
-      "birth_date": "January 9, 1925",
-      "death_date": "December 16, 1989",
-      "birth_place": "Somerville, New Jersey, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["The Good, the Bad and the Ugly", "For a Few Dollars More"],
-      "details": "Lee Van Cleef was an actor known for his roles in Spaghetti Westerns, often portraying villains or antiheroes. His most famous roles include appearances in Sergio Leone's films 'The Good, the Bad and the Ugly' and 'For a Few Dollars More'."
-    },
-    {
-      "name": "James Gandolfini",
-      "birth_date": "September 18, 1961",
-      "death_date": "June 19, 2013",
-      "birth_place": "Westwood, New Jersey, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer"],
-      "notable_awards": ["Primetime Emmy Award"],
-      "details": "James Gandolfini is best known for his role as Tony Soprano in 'The Sopranos', which earned him multiple Emmy Awards. He also appeared in films such as 'True Romance' and produced documentaries like 'Alive Day Memories: Home from Iraq'."
-    },
-    {
-      "name": "Christian Bale",
-      "birth_date": "January 30, 1974",
-      "birth_place": "Haverfordwest, Pembrokeshire, Wales",
-      "nationality": "British",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Supporting Actor"],
-      "details": "Christian Bale is known for his versatility and dedication to his roles, including dramatic physical transformations. He has starred in films like 'American Psycho', 'The Dark Knight Trilogy', and 'The Fighter', for which he won an Academy Award."
-    },
-    {
-      "name": "Bob Gunton",
-      "birth_date": "November 15, 1945",
-      "birth_place": "Santa Monica, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["The Shawshank Redemption"],
-      "details": "Bob Gunton is best known for his role as Warden Norton in 'The Shawshank Redemption'. He has also appeared in films such as 'Demolition Man' and 'The Perfect Storm', and has had a successful stage career, including a Tony Award nomination."
-    },
-    {
-      "name": "Lea Thompson",
-      "birth_date": "May 31, 1961",
-      "birth_place": "Rochester, Minnesota, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Director"],
-      "notable_awards": ["People's Choice Award"],
-      "details": "Lea Thompson is best known for her role as Lorraine Baines in the 'Back to the Future' trilogy. She also starred in the NBC sitcom 'Caroline in the City' and directed episodes of shows like 'Resident Alien' and 'Star Trek: Picard'. Thompson has also had a successful career on Broadway and in various TV movies, including the 'Jane Doe' series."
-    },
-    {
-      "name": "Betsy Brandt",
-      "birth_date": "March 14, 1973",
-      "birth_place": "Bay City, Michigan, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_roles": ["Breaking Bad", "Life in Pieces"],
-      "details": "Betsy Brandt is best known for her role as Marie Schrader in 'Breaking Bad'. She has also appeared in the TV show 'Life in Pieces' and had a guest role in 'Better Call Saul'. Brandt is recognized for her diverse acting across different genres of television."
-    },
-    {
-      "name": "Tim Robbins",
-      "birth_date": "October 16, 1958",
-      "birth_place": "West Covina, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Director", "Producer"],
-      "notable_awards": ["Academy Award for Best Supporting Actor"],
-      "details": "Tim Robbins gained fame for his roles in films like 'The Shawshank Redemption', 'Mystic River', and 'Bull Durham'. He has also directed films with strong social themes, including 'Dead Man Walking'. Robbins founded the experimental theatre group Actors' Gang and has had a successful career both in front of and behind the camera."
-    },
-    {
-      "name": "Martina Gedeck",
-      "birth_date": "September 14, 1961",
-      "birth_place": "Munich, Germany",
-      "nationality": "German",
-      "occupation": ["Actress"],
-      "notable_roles": ["The Lives of Others", "The Baader Meinhof Complex"],
-      "details": "Martina Gedeck is a prominent German actress known for her roles in 'The Lives of Others' and 'The Baader Meinhof Complex'. She has worked extensively in both German and international cinema, and is regarded as one of Germany's most talented actresses."
-    },
-    {
-      "name": "Yeo-jeong Cho",
-      "birth_date": "February 10, 1981",
-      "birth_place": "Seoul, South Korea",
-      "nationality": "South Korean",
-      "occupation": ["Actress"],
-      "notable_awards": ["Blue Dragon Film Award"],
-      "details": "Yeo-jeong Cho is best known for her role in Bong Joon-ho's 'Parasite', which won the Academy Award for Best Picture. She has also starred in several successful Korean dramas and films, gaining international recognition for her performance in 'Parasite'."
-    },
-    {
-      "name": "Jodie Foster",
-      "birth_date": "November 19, 1962",
-      "birth_place": "Los Angeles, California, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Director", "Producer"],
-      "notable_awards": ["Academy Award for Best Actress"],
-      "details": "Jodie Foster is a critically acclaimed actress known for her roles in 'The Silence of the Lambs', 'Taxi Driver', and 'The Accused'. She has won two Academy Awards for Best Actress and has also directed several films, including 'The Beaver' and 'Money Monster'."
-    },
-    {
-      "name": "Jerry Seinfeld",
-      "birth_date": "April 29, 1954",
-      "birth_place": "Brooklyn, New York, USA",
-      "nationality": "American",
-      "occupation": ["Comedian", "Actor", "Writer"],
-      "notable_awards": ["Primetime Emmy Award"],
-      "details": "Jerry Seinfeld is best known as the co-creator and star of the sitcom 'Seinfeld', which is widely regarded as one of the greatest and most influential sitcoms of all time. He is also known for his work as a stand-up comedian and for the Netflix series 'Comedians in Cars Getting Coffee'."
-    },
-    {
-      "name": "Jason Alexander",
-      "birth_date": "September 23, 1959",
-      "birth_place": "Newark, New Jersey, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Comedian", "Director"],
-      "notable_awards": ["Screen Actors Guild Award"],
-      "details": "Jason Alexander is best known for his role as George Costanza on the hit sitcom 'Seinfeld'. He has also appeared in numerous Broadway productions, including 'Jerome Robbins' Broadway', for which he won a Tony Award. Alexander has also worked as a voice actor in animated shows and movies."
-    },
-    {
-      "name": "Gabriel Byrne",
-      "birth_date": "May 12, 1950",
-      "birth_place": "Dublin, Ireland",
-      "nationality": "Irish",
-      "occupation": ["Actor", "Producer"],
-      "notable_awards": ["Golden Globe Award"],
-      "details": "Gabriel Byrne has had a long career in both film and television, with notable roles in films like 'The Usual Suspects' and 'Miller's Crossing'. He won a Golden Globe for his role in the television series 'In Treatment'. Byrne has also produced several films and is known for his work in independent cinema."
-    },
-    {
-      "name": "Melissa Benoist",
-      "birth_date": "October 4, 1988",
-      "birth_place": "Houston, Texas, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Singer"],
-      "notable_roles": ["Supergirl"],
-      "details": "Melissa Benoist is best known for her role as Kara Danvers/Supergirl in the television series 'Supergirl'. She also appeared in 'Glee' and in the Oscar-winning film 'Whiplash'. Benoist has been involved in several charitable causes and is an advocate for mental health awareness."
-    },
-    {
-      "name": "Joseph Gordon-Levitt",
-      "birth_date": "February 17, 1981",
-      "birth_place": "Los Angeles, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Director", "Producer"],
-      "notable_awards": ["Primetime Emmy Award"],
-      "details": "Joseph Gordon-Levitt gained recognition as a child actor on the television show '3rd Rock from the Sun' and went on to star in films like 'Inception', '500 Days of Summer', and 'Looper'. He is also the founder of the online media platform HitRecord, which promotes collaborative creative projects."
-    },
-    {
-      "name": "Matt Damon",
-      "birth_date": "October 8, 1970",
-      "birth_place": "Cambridge, Massachusetts, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer", "Screenwriter"],
-      "notable_awards": ["Academy Award for Best Original Screenplay"],
-      "details": "Matt Damon is known for his roles in films such as 'Good Will Hunting', 'The Bourne Identity', and 'The Martian'. He won an Academy Award for co-writing 'Good Will Hunting' with Ben Affleck. Damon has also been actively involved in humanitarian work, particularly with Water.org, an organization he co-founded."
-    },
-    {
-      "name": "Sebastian Koch",
-      "birth_date": "May 31, 1962",
-      "birth_place": "Karlsruhe, Germany",
-      "nationality": "German",
-      "occupation": ["Actor"],
-      "notable_roles": ["The Lives of Others", "Bridge of Spies"],
-      "details": "Sebastian Koch is a renowned German actor known for his roles in 'The Lives of Others' and Steven Spielberg's 'Bridge of Spies'. He has also appeared in numerous German television productions and is recognized for his work in both German and international cinema."
-    },
-    {
-      "name": "Beverly D'Angelo",
-      "birth_date": "November 15, 1951",
-      "birth_place": "Columbus, Ohio, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_roles": ["National Lampoon's Vacation series"],
-      "details": "Beverly D'Angelo is best known for her role as Ellen Griswold in the 'National Lampoon's Vacation' film series. She has also appeared in films such as 'Coal Miner's Daughter' and 'American History X'. D'Angelo has had a long career in both film and television."
-    },
-    {
-      "name": "Mädchen Amick",
-      "birth_date": "December 12, 1970",
-      "birth_place": "Sparks, Nevada, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_roles": ["Twin Peaks", "Riverdale"],
-      "details": "Mädchen Amick is known for her role as Shelly Johnson on 'Twin Peaks' and more recently as Alice Cooper on 'Riverdale'. She has appeared in various television shows and films throughout her career, and is known for her versatility as an actress."
-    },
-    {
-      "name": "Charlie Day",
-      "birth_date": "February 9, 1976",
-      "birth_place": "New York City, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Comedian", "Writer"],
-      "notable_roles": ["It's Always Sunny in Philadelphia"],
-      "details": "Charlie Day is best known for his role as Charlie Kelly on the television series 'It's Always Sunny in Philadelphia', which he also co-created. He has also starred in films such as 'Horrible Bosses', 'Pacific Rim', and 'The Lego Movie'."
-    },
-    {
-      "name": "Anthony Hopkins",
-      "birth_date": "December 31, 1937",
-      "birth_place": "Port Talbot, Wales",
-      "nationality": "British",
-      "occupation": ["Actor", "Director", "Producer"],
-      "notable_awards": ["Academy Awards", "BAFTA Award"],
-      "details": "Anthony Hopkins is an acclaimed actor known for his roles in films like 'The Silence of the Lambs', 'The Remains of the Day', and 'The Father'. He has won two Academy Awards for Best Actor and is celebrated for his powerful and diverse performances across stage and screen&#8203;:contentReference[oaicite:0]{index=0}."
-    },
-    {
-      "name": "Connie Nielsen",
-      "birth_date": "July 3, 1965",
-      "birth_place": "Frederikshavn, Denmark",
-      "nationality": "Danish",
-      "occupation": ["Actress"],
-      "notable_roles": ["Gladiator", "Wonder Woman"],
-      "details": "Connie Nielsen is a Danish actress known for her roles in 'Gladiator', 'Wonder Woman', and 'The Devil's Advocate'. She is multilingual, fluent in Danish, English, French, German, Italian, Norwegian, and Swedish. She has won the Bodil Award for Best Actress for her role in the Danish film 'Brothers'&#8203;:contentReference[oaicite:1]{index=1}."
-    },
-    {
-      "name": "Hugh Jackman",
-      "birth_date": "October 12, 1968",
-      "birth_place": "Sydney, Australia",
-      "nationality": "Australian",
-      "occupation": ["Actor", "Singer"],
-      "notable_awards": ["Golden Globe Award", "Tony Award"],
-      "details": "Hugh Jackman is known for his versatility as an actor, starring in roles such as Wolverine in the 'X-Men' series, 'Les Misérables', and 'The Greatest Showman'. He has received a Tony Award for his Broadway performances and a Golden Globe for his work in film."
-    },
-    {
-      "name": "Michael J. Fox",
-      "birth_date": "June 9, 1961",
-      "birth_place": "Edmonton, Alberta, Canada",
-      "nationality": "Canadian",
-      "occupation": ["Actor", "Author"],
-      "notable_awards": ["Primetime Emmy Awards", "Golden Globe Awards"],
-      "details": "Michael J. Fox gained fame for his role as Marty McFly in 'Back to the Future' and also starred in 'Family Ties' and 'Spin City'. He founded the Michael J. Fox Foundation for Parkinson's Research after being diagnosed with Parkinson's disease in 1991, and he is an advocate for research in the field&#8203;:contentReference[oaicite:2]{index=2}."
-    },
-    {
-      "name": "Lisa Kudrow",
-      "birth_date": "July 30, 1963",
-      "birth_place": "Encino, California, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Producer"],
-      "notable_awards": ["Primetime Emmy Award"],
-      "details": "Lisa Kudrow is best known for her role as Phoebe Buffay on the hit sitcom 'Friends', for which she won a Primetime Emmy Award. She has also starred in 'The Comeback' and 'Web Therapy', and is known for her comedic talent and distinct portrayal of quirky characters."
-    },
-    {
-      "name": "Kevin Spacey",
-      "birth_date": "July 26, 1959",
-      "birth_place": "South Orange, New Jersey, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer"],
-      "notable_awards": ["Academy Awards", "Golden Globe Award"],
-      "details": "Kevin Spacey is known for his roles in 'American Beauty', 'The Usual Suspects', and 'House of Cards'. He won two Academy Awards and a Golden Globe Award, and was the artistic director of The Old Vic theatre in London. Spacey has faced several allegations of sexual misconduct in recent years&#8203;:contentReference[oaicite:3]{index=3}."
-    },
-    {
-      "name": "Michael Richards",
-      "birth_date": "July 24, 1949",
-      "birth_place": "Culver City, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Comedian"],
-      "notable_awards": ["Primetime Emmy Awards"],
-      "details": "Michael Richards is best known for his role as Cosmo Kramer on the iconic sitcom 'Seinfeld', for which he won three Primetime Emmy Awards. He started his career on the sketch show 'Fridays' and made appearances in films such as 'UHF'."
-    },
-    {
-      "name": "Wendell Pierce",
-      "birth_date": "December 8, 1963",
-      "birth_place": "New Orleans, Louisiana, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["The Wire", "Suits"],
-      "details": "Wendell Pierce is known for his roles in 'The Wire' as Detective Bunk Moreland and as Robert Zane in 'Suits'. He has also appeared in several movies, including 'Selma' and 'The Money Pit', and is known for his advocacy work in his hometown of New Orleans."
-    },
-    {
-      "name": "Laurence Fishburne",
-      "birth_date": "July 30, 1961",
-      "birth_place": "Augusta, Georgia, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer"],
-      "notable_awards": ["Emmy Award", "Tony Award"],
-      "details": "Laurence Fishburne gained fame as Morpheus in 'The Matrix' series and has appeared in numerous other films, including 'Apocalypse Now' and 'Boyz n the Hood'. He has won an Emmy Award for 'Tribeca' and a Tony Award for his stage work."
-    },
-    {
-      "name": "Michael Berryman",
-      "birth_date": "September 4, 1948",
-      "birth_place": "Los Angeles, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["The Hills Have Eyes"],
-      "details": "Michael Berryman is best known for his role in the horror classic 'The Hills Have Eyes'. He often plays characters with unique physical characteristics due to a rare condition, hypohidrotic ectodermal dysplasia, which prevents the formation of hair, nails, and teeth."
-    },
-    {
-      "name": "Keanu Reeves",
-      "birth_date": "September 2, 1964",
-      "birth_place": "Beirut, Lebanon",
-      "nationality": "Canadian",
-      "occupation": ["Actor"],
-      "notable_awards": ["MTV Movie Award"],
-      "details": "Keanu Reeves is famous for his roles in 'The Matrix', 'John Wick', and 'Speed'. Known for his versatility and dedication to his roles, Reeves is celebrated both for his action films and for his humble demeanor and generosity off-screen."
-    },
-    {
-      "name": "Kyle MacLachlan",
-      "birth_date": "February 22, 1959",
-      "birth_place": "Yakima, Washington, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["Twin Peaks", "Dune"],
-      "details": "Kyle MacLachlan is best known for his roles as Special Agent Dale Cooper in David Lynch's 'Twin Peaks' and as Paul Atreides in 'Dune'. He has collaborated frequently with David Lynch and is recognized for his enigmatic and often surreal characters."
-    },
-    {
-      "name": "Mark Hamill",
-      "birth_date": "September 25, 1951",
-      "birth_place": "Oakland, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Voice Actor"],
-      "notable_roles": ["Star Wars", "Batman: The Animated Series"],
-      "details": "Mark Hamill gained fame as Luke Skywalker in the 'Star Wars' franchise. He is also known for his voice acting, particularly as the Joker in 'Batman: The Animated Series'. He has enjoyed a career spanning live-action, voice roles, and stage performances."
-    },
-    {
-      "name": "Adrien Brody",
-      "birth_date": "April 14, 1973",
-      "birth_place": "New York City, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Actor"],
-      "details": "Adrien Brody is known for his role in 'The Pianist', which won him the Academy Award for Best Actor, making him the youngest actor ever to win in that category. He is also known for films like 'King Kong' and 'The Grand Budapest Hotel'&#8203;:contentReference[oaicite:0]{index=0}."
-    },
-    {
-      "name": "Jenna Fischer",
-      "birth_date": "March 7, 1974",
-      "birth_place": "Fort Wayne, Indiana, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Producer"],
-      "notable_awards": ["Screen Actors Guild Award"],
-      "details": "Jenna Fischer is best known for her role as Pam Beesly on 'The Office'. She has also directed and appeared in films like 'LolliLove'. Fischer has expressed her passion for portraying relatable characters, especially in her role as Pam&#8203;:contentReference[oaicite:1]{index=1}."
-    },
-    {
-      "name": "Julie Kavner",
-      "birth_date": "September 7, 1950",
-      "birth_place": "Los Angeles, California, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_awards": ["Primetime Emmy Award"],
-      "details": "Julie Kavner is widely recognized for her voice work as Marge Simpson on 'The Simpsons'. Before 'The Simpsons', she starred in 'Rhoda' and received an Emmy for her role. She is known for her distinctive 'honeyed gravel' voice, which has become iconic in her portrayal of Marge&#8203;:contentReference[oaicite:2]{index=2}."
-    },
-    {
-      "name": "Gary Sinise",
-      "birth_date": "March 17, 1955",
-      "birth_place": "Blue Island, Illinois, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Director", "Producer", "Musician"],
-      "notable_awards": ["Golden Globe Award", "Primetime Emmy Award"],
-      "details": "Gary Sinise is known for his roles in films such as 'Forrest Gump', where he played Lieutenant Dan, and 'Of Mice and Men'. He is also recognized for his portrayal of Detective Mac Taylor in 'CSI: NY'. Sinise is active in supporting veterans and founded the Gary Sinise Foundation&#8203;:contentReference[oaicite:3]{index=3}."
-    },
-    {
-      "name": "Lance Reddick",
-      "birth_date": "June 7, 1962",
-      "death_date": "March 17, 2023",
-      "birth_place": "Baltimore, Maryland, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["The Wire", "John Wick", "Bosch"],
-      "details": "Lance Reddick is known for his roles in 'The Wire', 'Fringe', and the 'John Wick' series. He also voiced Sylens in the video game 'Horizon Zero Dawn'. Reddick passed away in 2023, and the Lance Reddick Legacy Award was established in his honor&#8203;:contentReference[oaicite:4]{index=4}."
-    },
-    {
-      "name": "Michael Berryman",
-      "birth_date": "September 4, 1948",
-      "birth_place": "Los Angeles, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["The Hills Have Eyes"],
-      "details": "Michael Berryman is best known for his role in the horror classic 'The Hills Have Eyes'. Due to his unique appearance caused by a rare condition, he often portrayed characters with distinctive features in horror films."
-    },
-    {
-      "name": "John Travolta",
-      "birth_date": "February 18, 1954",
-      "birth_place": "Englewood, New Jersey, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer"],
-      "notable_awards": ["Golden Globe Award"],
-      "details": "John Travolta rose to fame with films like 'Saturday Night Fever' and 'Grease'. He experienced a career resurgence with 'Pulp Fiction' and has continued to star in films across various genres, including musicals, action, and drama."
-    },
-    {
-      "name": "Natalie Portman",
-      "birth_date": "June 9, 1981",
-      "birth_place": "Jerusalem, Israel",
-      "nationality": "Israeli-American",
-      "occupation": ["Actress", "Director"],
-      "notable_awards": ["Academy Award for Best Actress"],
-      "details": "Natalie Portman gained recognition for her roles in films such as 'Black Swan', for which she won an Academy Award, 'V for Vendetta', and 'Jackie'. She started acting at a young age, debuting in 'The Professional'. Portman has also directed films such as 'A Tale of Love and Darkness'."
-    },
-    {
-      "name": "Jack Nicholson",
-      "birth_date": "April 22, 1937",
-      "birth_place": "Neptune City, New Jersey, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Filmmaker"],
-      "notable_awards": ["Three Academy Awards", "Six Golden Globe Awards"],
-      "details": "Jack Nicholson is one of the most celebrated actors of the 20th century, known for his roles in films like 'The Shining', 'One Flew Over the Cuckoo's Nest', and 'As Good as It Gets'. He has won three Academy Awards and has been nominated for numerous others throughout his five-decade career."
-    },
-    {
-      "name": "Michael Clarke Duncan",
-      "birth_date": "December 10, 1957",
-      "death_date": "September 3, 2012",
-      "birth_place": "Chicago, Illinois, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award Nominee"],
-      "details": "Michael Clarke Duncan was best known for his role as John Coffey in 'The Green Mile', for which he received an Academy Award nomination. He also appeared in films like 'Armageddon', 'Daredevil', and 'Kung Fu Panda'. He passed away in 2012 due to complications following a heart attack."
-    },
-    {
-      "name": "Jeremy Irons",
-      "birth_date": "September 19, 1948",
-      "birth_place": "Cowes, Isle of Wight, England",
-      "nationality": "British",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Actor"],
-      "details": "Jeremy Irons is an acclaimed actor known for his roles in 'The Lion King' (voice of Scar), 'Reversal of Fortune' (for which he won an Academy Award), and 'The Borgias'. He has had a distinguished career across film, television, and stage."
-    },
-    {
-      "name": "Christopher Lloyd",
-      "birth_date": "October 22, 1938",
-      "birth_place": "Stamford, Connecticut, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Three Primetime Emmy Awards"],
-      "details": "Christopher Lloyd is widely known for his iconic role as Doc Brown in the 'Back to the Future' trilogy. He also starred in 'The Addams Family' and won several Emmy Awards for his work on the television series 'Taxi'."
-    },
-    {
-      "name": "Miles Teller",
-      "birth_date": "February 20, 1987",
-      "birth_place": "Downingtown, Pennsylvania, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Nominated for BAFTA Rising Star Award"],
-      "details": "Miles Teller is known for his roles in films such as 'Whiplash', 'The Spectacular Now', and 'Top Gun: Maverick'. He has received critical acclaim for his performance in 'Whiplash', which showcased his drumming skills."
-    },
-    {
-      "name": "Arnold Schwarzenegger",
-      "birth_date": "July 30, 1947",
-      "birth_place": "Thal, Styria, Austria",
-      "nationality": "Austrian-American",
-      "occupation": ["Actor", "Politician", "Bodybuilder"],
-      "notable_awards": ["Golden Globe Award"],
-      "details": "Arnold Schwarzenegger is a former professional bodybuilder and actor known for films like 'The Terminator' series, 'Predator', and 'Total Recall'. He served as the Governor of California from 2003 to 2011 and is a prominent figure in action cinema."
-    },
-    {
-      "name": "Linda Hamilton",
-      "birth_date": "September 26, 1956",
-      "birth_place": "Salisbury, Maryland, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_awards": ["Two Saturn Awards"],
-      "details": "Linda Hamilton is best known for her portrayal of Sarah Connor in 'The Terminator' films. She has also starred in 'Beauty and the Beast', a role that earned her Emmy and Golden Globe nominations. Hamilton is celebrated for her work in science fiction and action genres."
-    },
-    {
-      "name": "Viggo Mortensen",
-      "birth_date": "October 20, 1958",
-      "birth_place": "New York City, New York, USA",
-      "nationality": "American-Danish",
-      "occupation": ["Actor", "Director", "Musician"],
-      "notable_awards": ["Academy Award Nominee"],
-      "details": "Viggo Mortensen is best known for his role as Aragorn in 'The Lord of the Rings' trilogy. He has also appeared in films like 'Green Book', 'Eastern Promises', and 'A History of Violence'. Mortensen has directed films, including 'Falling' and 'The Dead Don't Hurt', and is also a published author and artist. He is known for his versatility and his dedication to method acting."
-    },
-    {
-      "name": "Jennifer Aniston",
-      "birth_date": "February 11, 1969",
-      "birth_place": "Sherman Oaks, Los Angeles, California, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Producer"],
-      "notable_awards": ["Primetime Emmy Award", "Golden Globe Award"],
-      "details": "Jennifer Aniston is widely recognized for her role as Rachel Green on the sitcom 'Friends', which earned her numerous awards and widespread popularity. She has also starred in movies like 'Marley & Me', 'The Break-Up', and 'We're the Millers'. Aniston is known for her comedic timing and has been involved in both acting and producing projects."
-    },
-    {
-      "name": "James Stewart",
-      "birth_date": "May 20, 1908",
-      "death_date": "July 2, 1997",
-      "birth_place": "Indiana, Pennsylvania, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Actor"],
-      "details": "James Stewart, often called 'Jimmy', was an iconic actor of the Golden Age of Hollywood, known for his distinctive drawl. He starred in films like 'It's a Wonderful Life', 'Rear Window', and 'Mr. Smith Goes to Washington'. He received an Academy Award for 'The Philadelphia Story' and was also a decorated World War II veteran."
-    },
-    {
-      "name": "Jean Reno",
-      "birth_date": "July 30, 1948",
-      "birth_place": "Casablanca, Morocco",
-      "nationality": "French",
-      "occupation": ["Actor"],
-      "notable_roles": ["Léon: The Professional", "The Da Vinci Code"],
-      "details": "Jean Reno is a French actor best known for his roles in 'Léon: The Professional', 'The Big Blue', and 'The Da Vinci Code'. He often plays characters with a strong moral compass or mysterious past, and his career spans across both French and Hollywood cinema."
-    },
-    {
-      "name": "Matheus Nachtergaele",
-      "birth_date": "January 3, 1969",
-      "birth_place": "São Paulo, Brazil",
-      "nationality": "Brazilian",
-      "occupation": ["Actor", "Director"],
-      "notable_awards": ["Grande Prêmio do Cinema Brasileiro"],
-      "details": "Matheus Nachtergaele is known for his roles in Brazilian films like 'City of God' and 'Auto da Compadecida'. He is also a stage actor and has directed films such as 'The Dead Girl's Feast'. Nachtergaele is celebrated for his dynamic and emotional acting style."
-    },
-    {
-      "name": "Edward Norton",
-      "birth_date": "August 18, 1969",
-      "birth_place": "Boston, Massachusetts, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Filmmaker"],
-      "notable_awards": ["Golden Globe Award"],
-      "details": "Edward Norton is known for his roles in films like 'Fight Club', 'American History X', and 'Birdman'. He has received multiple Academy Award nominations and is also a director, known for 'Keeping the Faith' and 'Motherless Brooklyn'. Norton is recognized for his intense and transformative performances."
-    },
-    {
-      "name": "Al Pacino",
-      "birth_date": "April 25, 1940",
-      "birth_place": "New York City, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Filmmaker"],
-      "notable_awards": ["Academy Award for Best Actor"],
-      "details": "Al Pacino is an iconic actor known for his roles in 'The Godfather' series, 'Scarface', and 'Scent of a Woman', for which he won an Academy Award. Pacino is considered one of the greatest actors of his generation, known for his powerful and intense performances."
-    },
-    {
-      "name": "Robin Wright",
-      "birth_date": "April 8, 1966",
-      "birth_place": "Dallas, Texas, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Director"],
-      "notable_awards": ["Golden Globe Award"],
-      "details": "Robin Wright is best known for her roles in 'The Princess Bride', 'Forrest Gump', and as Claire Underwood in 'House of Cards', for which she won a Golden Globe Award. Wright has also ventured into directing and is recognized for her strong on-screen presence."
-    },
-    {
-      "name": "Dana Ashbrook",
-      "birth_date": "May 24, 1967",
-      "birth_place": "San Diego, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["Twin Peaks"],
-      "details": "Dana Ashbrook is best known for his role as Bobby Briggs in David Lynch's 'Twin Peaks'. He reprised this role in the 2017 revival. Ashbrook has also appeared in various TV shows and films, and is recognized for his work in cult television."
-    },
-    {
-      "name": "Julia Louis-Dreyfus",
-      "birth_date": "January 13, 1961",
-      "birth_place": "New York City, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Comedian"],
-      "notable_awards": ["11 Primetime Emmy Awards", "Golden Globe Award", "9 Screen Actors Guild Awards"],
-      "details": "Julia Louis-Dreyfus is known for her roles in popular TV series such as 'Seinfeld' (as Elaine Benes), 'Veep', and 'The New Adventures of Old Christine'. She has received numerous accolades throughout her career, including multiple Emmy Awards for her performances. Louis-Dreyfus was inducted into the Television Academy Hall of Fame in 2014 and received a star on the Hollywood Walk of Fame in 2010."
-    },
-    {
-      "name": "Edie Falco",
-      "birth_date": "July 5, 1963",
-      "birth_place": "Brooklyn, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_awards": ["4 Primetime Emmy Awards", "2 Golden Globe Awards", "5 Screen Actors Guild Awards"],
-      "details": "Edie Falco is best known for her roles as Carmela Soprano in 'The Sopranos' and as Jackie Peyton in 'Nurse Jackie'. She has received several awards for her work, including three Emmys for her role on 'The Sopranos'. Her performance as Carmela Soprano was highly acclaimed and is considered one of the greatest portrayals in television history."
-    },
-    {
-      "name": "Heath Ledger",
-      "birth_date": "April 4, 1979",
-      "death_date": "January 22, 2008",
-      "birth_place": "Perth, Western Australia, Australia",
-      "nationality": "Australian",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Supporting Actor"],
-      "details": "Heath Ledger is known for his diverse roles, including Ennis Del Mar in 'Brokeback Mountain' and the Joker in 'The Dark Knight'. He won a posthumous Academy Award for Best Supporting Actor for his role as the Joker. Ledger's performance was widely praised for its depth and intensity, cementing his legacy as one of the finest actors of his generation."
-    },
-    {
-      "name": "Ray Liotta",
-      "birth_date": "December 18, 1954",
-      "death_date": "May 26, 2022",
-      "birth_place": "Newark, New Jersey, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["Goodfellas", "Field of Dreams"],
-      "details": "Ray Liotta was known for his role as Henry Hill in Martin Scorsese's 'Goodfellas'. He also appeared in films like 'Field of Dreams' and 'Cop Land'. Liotta's intense on-screen presence and ability to portray complex characters made him a standout actor in crime dramas."
-    },
-    {
-      "name": "Tom Hanks",
-      "birth_date": "July 9, 1956",
-      "birth_place": "Concord, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Director", "Producer"],
-      "notable_awards": ["2 Academy Awards for Best Actor"],
-      "details": "Tom Hanks is a beloved actor known for his roles in films like 'Forrest Gump', 'Saving Private Ryan', 'Cast Away', and 'Big'. He is widely regarded as one of the most versatile actors in Hollywood, with two Academy Awards for Best Actor in a Leading Role for his performances in 'Philadelphia' and 'Forrest Gump'."
-    },
-    {
-      "name": "Russell Crowe",
-      "birth_date": "April 7, 1964",
-      "birth_place": "Wellington, New Zealand",
-      "nationality": "New Zealand-Australian",
-      "occupation": ["Actor", "Musician"],
-      "notable_awards": ["Academy Award for Best Actor"],
-      "details": "Russell Crowe gained international fame for his role as Maximus in 'Gladiator', which earned him an Academy Award. He has also starred in films such as 'A Beautiful Mind' and 'The Insider'. Crowe is known for his intense dedication to his roles and has been recognized as one of the top actors of his generation."
-    },
-    {
-      "name": "Sun-kyun Lee",
-      "birth_date": "March 2, 1975",
-      "birth_place": "Seoul, South Korea",
-      "nationality": "South Korean",
-      "occupation": ["Actor"],
-      "notable_roles": ["Parasite", "A Hard Day"],
-      "details": "Sun-kyun Lee is a South Korean actor best known for his role in the Oscar-winning film 'Parasite'. He has also appeared in a number of South Korean films and television series, including 'A Hard Day' and 'My Mister'. Lee is recognized for his compelling performances in both drama and thriller genres."
-    },
-    {
-      "name": "Ralph Fiennes",
-      "birth_date": "December 22, 1962",
-      "birth_place": "Ipswich, Suffolk, England",
-      "nationality": "British",
-      "occupation": ["Actor", "Director"],
-      "notable_awards": ["BAFTA Award"],
-      "details": "Ralph Fiennes is known for his roles in films like 'Schindler's List', 'The English Patient', and as Lord Voldemort in the 'Harry Potter' series. He has received numerous awards, including a BAFTA for Best Actor. Fiennes is also a respected stage actor and has worked extensively with the Royal Shakespeare Company."
-    },
-    {
-      "name": "Matt Berry",
-      "birth_date": "May 2, 1974",
-      "birth_place": "Bromham, Bedfordshire, England",
-      "nationality": "British",
-      "occupation": ["Actor", "Musician", "Comedian"],
-      "notable_roles": ["What We Do in the Shadows", "The IT Crowd"],
-      "details": "Matt Berry is known for his distinctive voice and comedic roles in shows such as 'The IT Crowd' and 'What We Do in the Shadows'. He is also a talented musician, having released several albums."
-    },
-    {
-      "name": "Nancy Cartwright",
-      "birth_date": "October 25, 1957",
-      "birth_place": "Dayton, Ohio, USA",
-      "nationality": "American",
-      "occupation": ["Voice Actress", "Actress"],
-      "notable_awards": ["Primetime Emmy Award for Outstanding Voice-Over Performance", "Annie Award for Best Voice Acting in the Field of Animation"],
-      "details": "Nancy Cartwright is best known for voicing Bart Simpson on 'The Simpsons', as well as other characters like Ralph Wiggum, Nelson Muntz, and Chuckie Finster. She has received numerous awards for her voice acting work and has trained under Daws Butler, a famous voice actor known for characters like Huckleberry Hound and Yogi Bear&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}."
-    },
-    {
-      "name": "Kaitlin Olson",
-      "birth_date": "August 18, 1975",
-      "birth_place": "Portland, Oregon, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Producer"],
-      "notable_roles": ["It's Always Sunny in Philadelphia", "The Mick"],
-      "details": "Kaitlin Olson is known for her comedic roles, especially as Dee Reynolds in 'It's Always Sunny in Philadelphia'. She has also starred in 'The Mick' and has voiced characters in shows like 'Bob's Burgers' and 'Family Guy'&#8203;:contentReference[oaicite:2]{index=2}."
-    },
-    {
-      "name": "Dan Castellaneta",
-      "birth_date": "October 29, 1957",
-      "birth_place": "Chicago, Illinois, USA",
-      "nationality": "American",
-      "occupation": ["Voice Actor", "Comedian", "Screenwriter"],
-      "notable_awards": ["Primetime Emmy Awards"],
-      "details": "Dan Castellaneta is famous for voicing Homer Simpson and numerous other characters on 'The Simpsons'. He has received several Emmy Awards for his work, and he is considered one of the most prolific voice actors in the industry&#8203;:contentReference[oaicite:3]{index=3}."
-    },
-    {
-      "name": "Bryan Cranston",
-      "birth_date": "March 7, 1956",
-      "birth_place": "Hollywood, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Director", "Producer"],
-      "notable_awards": ["Primetime Emmy Awards", "Golden Globe Award"],
-      "details": "Bryan Cranston is best known for his role as Walter White in 'Breaking Bad', for which he won multiple Emmy Awards. He also played Hal in 'Malcolm in the Middle' and has worked as a director and producer on various television projects."
-    },
-    {
-      "name": "Aaron Paul",
-      "birth_date": "August 27, 1979",
-      "birth_place": "Emmett, Idaho, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Primetime Emmy Awards"],
-      "details": "Aaron Paul gained fame for his role as Jesse Pinkman in 'Breaking Bad', earning him three Emmy Awards. He has also appeared in films like 'Need for Speed' and voiced Todd Chavez in the animated series 'BoJack Horseman'."
-    },
-    {
-      "name": "Lee J. Cobb",
-      "birth_date": "December 8, 1911",
-      "death_date": "February 11, 1976",
-      "birth_place": "New York City, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_roles": ["12 Angry Men", "On the Waterfront"],
-      "details": "Lee J. Cobb was a prominent actor known for his powerful performances in films such as '12 Angry Men' and 'On the Waterfront'. He was a versatile actor, equally adept at playing villains and strong, authoritative figures."
-    },
-    {
-      "name": "Alexandre Rodrigues",
-      "birth_date": "May 21, 1983",
-      "birth_place": "Rio de Janeiro, Brazil",
-      "nationality": "Brazilian",
-      "occupation": ["Actor"],
-      "notable_roles": ["City of God"],
-      "details": "Alexandre Rodrigues is best known for his role as Buscapé in 'City of God', a critically acclaimed Brazilian film. He has continued to work in Brazilian cinema and television."
-    },
-    {
-      "name": "Robert De Niro",
-      "birth_date": "August 17, 1943",
-      "birth_place": "New York City, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer", "Director"],
-      "notable_awards": ["Two Academy Awards"],
-      "details": "Robert De Niro is regarded as one of the greatest actors of all time, known for roles in 'Taxi Driver', 'Raging Bull', 'The Godfather Part II', and 'Goodfellas'. He has worked extensively with director Martin Scorsese and has received numerous accolades for his career in film."
-    },
-    {
-      "name": "Leonardo DiCaprio",
-      "birth_date": "November 11, 1974",
-      "birth_place": "Los Angeles, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer"],
-      "notable_awards": ["Academy Award for Best Actor"],
-      "details": "Leonardo DiCaprio is an award-winning actor known for his roles in 'Titanic', 'Inception', 'The Wolf of Wall Street', and 'The Revenant', for which he won an Academy Award. He is also an environmental activist and philanthropist."
-    },
-    {
-      "name": "Gary Oldman",
-      "birth_date": "March 21, 1958",
-      "birth_place": "London, England",
-      "nationality": "British",
-      "occupation": ["Actor", "Director", "Producer"],
-      "notable_awards": ["Academy Award for Best Actor"],
-      "details": "Gary Oldman is known for his transformative performances in films like 'Sid and Nancy', 'The Dark Knight Trilogy', and 'Darkest Hour', for which he won an Academy Award for Best Actor. He has also played significant roles in 'Harry Potter' as Sirius Black and 'Tinker Tailor Soldier Spy'. He is known for his versatility, portraying both villains and heroic characters across various genres."
-    },
-    {
-      "name": "Rob McElhenney",
-      "birth_date": "April 14, 1977",
-      "birth_place": "Philadelphia, Pennsylvania, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer", "Writer"],
-      "notable_awards": [],
-      "details": "Rob McElhenney is best known for his role as Mac on 'It's Always Sunny in Philadelphia', which he also co-created. He co-created and stars in 'Mythic Quest', and he co-owns the Welsh football club Wrexham AFC with Ryan Reynolds. McElhenney is recognized for his dedication to physical transformations for comedic purposes and has ventured into several business ventures, including an Irish American whiskey company."
-    },
-    {
-      "name": "Harry Shearer",
-      "birth_date": "December 23, 1943",
-      "birth_place": "Los Angeles, California, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Voice Actor", "Writer"],
-      "notable_awards": ["Primetime Emmy Award"],
-      "details": "Harry Shearer is best known for his voice work on 'The Simpsons', where he voices multiple characters, including Mr. Burns, Smithers, and Ned Flanders. He also starred on 'Saturday Night Live' and has a successful radio program called 'Le Show'. Shearer is renowned for his versatility as a voice actor."
-    },
-    {
-      "name": "Matt LeBlanc",
-      "birth_date": "July 25, 1967",
-      "birth_place": "Newton, Massachusetts, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Golden Globe Award"],
-      "details": "Matt LeBlanc is famous for his role as Joey Tribbiani on 'Friends' and its spin-off 'Joey'. He has also starred in the TV show 'Episodes', for which he won a Golden Globe Award. LeBlanc later co-hosted 'Top Gear' and starred in the CBS sitcom 'Man with a Plan'."
-    },
-    {
-      "name": "Rainn Wilson",
-      "birth_date": "January 20, 1966",
-      "birth_place": "Seattle, Washington, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Producer", "Writer"],
-      "notable_awards": ["Screen Actors Guild Award"],
-      "details": "Rainn Wilson is best known for his role as Dwight Schrute on 'The Office', which earned him widespread recognition and critical acclaim. He has also appeared in films like 'Super' and 'The Meg', and he co-founded the media company SoulPancake."
-    },
-    {
-      "name": "James Caan",
-      "birth_date": "March 26, 1940",
-      "death_date": "July 6, 2022",
-      "birth_place": "New York City, New York, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Emmy Award Nominee"],
-      "details": "James Caan was known for his roles in films like 'The Godfather', where he played Sonny Corleone, and 'Misery'. He also starred in 'Elf' and 'Rollerball'. Caan was known for his intensity and versatility, with a career spanning several decades."
-    },
-    {
-      "name": "J.K. Simmons",
-      "birth_date": "January 9, 1955",
-      "birth_place": "Detroit, Michigan, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Supporting Actor"],
-      "details": "J.K. Simmons is known for his roles in films like 'Whiplash', for which he won an Academy Award, and as J. Jonah Jameson in the 'Spider-Man' franchise. He has also appeared in TV series like 'Oz' and 'Counterpart'. Simmons is recognized for his powerful screen presence and commanding voice."
-    },
-    {
-      "name": "Leandro Firmino",
-      "birth_date": "June 23, 1978",
-      "birth_place": "Rio de Janeiro, Brazil",
-      "nationality": "Brazilian",
-      "occupation": ["Actor"],
-      "notable_roles": ["City of God"],
-      "details": "Leandro Firmino is best known for his role as Li'l Zé in 'City of God', a critically acclaimed Brazilian film. He has continued to work in Brazilian cinema and television, often portraying intense and complex characters."
-    },
-    {
-      "name": "David Morse",
-      "birth_date": "October 11, 1953",
-      "birth_place": "Beverly, Massachusetts, USA",
-      "nationality": "American",
-      "occupation": ["Actor"],
-      "notable_awards": ["Emmy Award Nominee"],
-      "details": "David Morse is known for his roles in films like 'The Green Mile' and 'The Negotiator'. He has also appeared in TV shows like 'St. Elsewhere' and 'Treme'. Morse is often cast in authoritative roles, and his performances are noted for their depth and subtlety."
-    },
-    {
-      "name": "Chris O'Dowd",
-      "birth_date": "October 9, 1979",
-      "birth_place": "Boyle, County Roscommon, Ireland",
-      "nationality": "Irish",
-      "occupation": ["Actor", "Comedian"],
-      "notable_awards": ["Screen Actors Guild Award"],
-      "details": "Chris O'Dowd is best known for his role in 'The IT Crowd' as Roy Trenneman. He has also appeared in films like 'Bridesmaids' and 'The Sapphires'. O'Dowd's comedic talent and charming on-screen presence have made him a popular figure in both television and film."
-    },
-    {
-      "name": "Ulrich Mühe",
-      "birth_date": "June 20, 1953",
-      "death_date": "July 22, 2007",
-      "birth_place": "Grimma, East Germany",
-      "nationality": "German",
-      "occupation": ["Actor"],
-      "notable_awards": ["European Film Award for Best Actor"],
-      "details": "Ulrich Mühe is best known for his role in 'The Lives of Others', which won the Academy Award for Best Foreign Language Film. Mühe's performance as a Stasi officer earned him widespread acclaim, and he was celebrated for his nuanced and powerful portrayal of complex characters."
-    },
-    {
-      "name": "Ian McKellen",
-      "birth_date": "May 25, 1939",
-      "birth_place": "Burnley, Lancashire, England",
-      "nationality": "British",
-      "occupation": ["Actor"],
-      "notable_awards": ["Tony Award", "Golden Globe Award"],
-      "details": "Ian McKellen is widely recognized for his roles as Gandalf in 'The Lord of the Rings' and 'The Hobbit' trilogies, as well as Magneto in the 'X-Men' films. He has received numerous awards, including a Tony Award for 'Amadeus' and several Olivier Awards for his stage work. McKellen is also an active supporter of LGBT rights, having publicly come out as gay in 1988 and becoming a co-founder of Stonewall UK."
-    },
-    {
-      "name": "Ben Kingsley",
-      "birth_date": "December 31, 1943",
-      "birth_place": "Snainton, North Riding of Yorkshire, England",
-      "nationality": "British",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award for Best Actor", "BAFTA Award", "Golden Globe Award"],
-      "details": "Ben Kingsley is best known for his Oscar-winning portrayal of Mahatma Gandhi in 'Gandhi'. He has also starred in 'Schindler's List', 'Sexy Beast', and 'House of Sand and Fog'. Kingsley has had a prolific career spanning over five decades, with performances in both film and television. He has also worked with Marvel Studios, portraying Trevor Slattery in 'Iron Man 3' and 'Shang-Chi and the Legend of the Ten Rings'."
-    },
-    {
-      "name": "Liam Neeson",
-      "birth_date": "June 7, 1952",
-      "birth_place": "Ballymena, County Antrim, Northern Ireland",
-      "nationality": "Northern Irish",
-      "occupation": ["Actor"],
-      "notable_awards": ["Academy Award Nominee", "Tony Award Nominee"],
-      "details": "Liam Neeson is known for his roles in 'Schindler's List', 'Taken', and 'Love Actually'. He has received Academy Award and Tony Award nominations, the latter for his work in 'Anna Christie' and 'The Crucible' on Broadway. Neeson gained widespread recognition for his roles in action films, particularly the 'Taken' series, which established him as an action star."
-    },
-    {
-      "name": "Chazz Palminteri",
-      "birth_date": "May 15, 1952",
-      "birth_place": "The Bronx, New York City, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Writer"],
-      "notable_awards": ["Academy Award Nominee"],
-      "details": "Chazz Palminteri is known for his work in 'A Bronx Tale', which he wrote and adapted into a one-man show and later into a film directed by Robert De Niro. He also received an Academy Award nomination for his role in 'Bullets Over Broadway'. Palminteri has had a successful career in both film and theatre, often portraying tough and charismatic characters."
-    },
-    {
-      "name": "Sonja Sohn",
-      "birth_date": "May 9, 1964",
-      "birth_place": "Fort Benning, Georgia, USA",
-      "nationality": "American",
-      "occupation": ["Actress", "Director"],
-      "notable_roles": ["The Wire", "Body of Proof"],
-      "details": "Sonja Sohn is best known for her role as Detective Kima Greggs in 'The Wire'. She has also worked in 'Body of Proof' and directed the documentary 'Baltimore Rising', which focuses on activism and community efforts following Freddie Gray's death in 2015. Sohn is an advocate for social justice, often using her platform to promote community empowerment."
-    },
-    {
-      "name": "Anne Hathaway",
-      "birth_date": "November 12, 1982",
-      "birth_place": "Brooklyn, New York City, USA",
-      "nationality": "American",
-      "occupation": ["Actress"],
-      "notable_awards": ["Academy Award for Best Supporting Actress"],
-      "details": "Anne Hathaway is known for her roles in films such as 'The Devil Wears Prada', 'Les Misérables', and 'The Dark Knight Rises'. She won an Academy Award for her role as Fantine in 'Les Misérables'. Hathaway is celebrated for her versatility and has appeared in both dramatic and comedic roles throughout her career."
-    },
-    {
-      "name": "James Earl Jones",
-      "birth_date": "January 17, 1931",
-      "birth_place": "Arkabutla, Mississippi, USA",
-      "nationality": "American",
-      "occupation": ["Actor", "Voice Actor"],
-      "notable_awards": ["Academy Honorary Award", "Tony Awards"],
-      "details": "James Earl Jones is known for his deep, resonant voice, most notably as Darth Vader in the 'Star Wars' franchise and Mufasa in 'The Lion King'. He has received numerous accolades, including a Tony Award for his work on Broadway, and an honorary Academy Award for his contributions to the film industry."
-    },
-    {
-      "name": "Frank Finlay",
-      "birth_date": "August 6, 1926",
-      "death_date": "January 30, 2016",
-      "birth_place": "Farnworth, Lancashire, England",
-      "nationality": "British",
-      "occupation": ["Actor"],
-      "notable_awards": ["BAFTA Award Nominee"],
-      "details": "Frank Finlay was a British actor known for his roles in films such as 'The Pianist', 'Othello', and 'Lifeforce'. He was nominated for an Academy Award for his role as Iago in 'Othello'. Finlay was known for his powerful performances both on stage and screen."
-    }
-  ]
-  
+  {
+    "name": "Jessica Chastain",
+    "birth_date": "March 24, 1977",
+    "birth_place": "Sacramento, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Academy Award",
+      "Golden Globe"
+    ],
+    "details": "Jessica Chastain is known for her work in film and theatre, often focusing on projects with feminist themes. She founded Freckle Films to promote diversity in film and has been vocal about mental health, gender, and racial equality.",
+    "id": "b2638d74"
+  },
+  {
+    "name": "Meat Loaf",
+    "birth_date": "September 27, 1947",
+    "death_date": "January 20, 2022",
+    "birth_place": "Dallas, Texas, USA",
+    "nationality": "American",
+    "occupation": [
+      "Singer",
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Rocky Horror Picture Show",
+      "Fight Club"
+    ],
+    "details": "Meat Loaf, born Marvin Lee Aday, was known for his powerful voice and theatrical performances. His notable film roles included Eddie in 'The Rocky Horror Picture Show' and Robert Paulson in 'Fight Club'.",
+    "id": "164cb281"
+  },
+  {
+    "name": "Robert Duvall",
+    "birth_date": "January 5, 1931",
+    "birth_place": "San Diego, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director"
+    ],
+    "notable_awards": [
+      "Academy Award",
+      "Golden Globe"
+    ],
+    "details": "Robert Duvall is a legendary actor known for his performances in films such as 'The Godfather' and 'Tender Mercies'. He has received numerous accolades, including an Academy Award for Best Actor for 'Tender Mercies'.",
+    "id": "f0c9ee43"
+  },
+  {
+    "name": "Elliot Page",
+    "birth_date": "February 21, 1987",
+    "birth_place": "Halifax, Nova Scotia, Canada",
+    "nationality": "Canadian",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Gemini Award",
+      "Human Rights Campaign Vanguard Award"
+    ],
+    "details": "Elliot Page is known for his performances in films such as 'Juno' and 'Inception'. He is a vocal advocate for LGBTQ rights and came out as transgender in 2020, becoming the first openly trans man to appear on the cover of Time magazine.",
+    "id": "5d772d7b"
+  },
+  {
+    "name": "Aaron Eckhart",
+    "birth_date": "March 12, 1968",
+    "birth_place": "Cupertino, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Dark Knight",
+      "Thank You for Smoking"
+    ],
+    "details": "Aaron Eckhart gained recognition for his roles in films like 'In the Company of Men' and 'Erin Brockovich'. He is best known for his portrayal of Harvey Dent/Two-Face in 'The Dark Knight'.",
+    "id": "80cdeeea"
+  },
+  {
+    "name": "Richard Ayoade",
+    "birth_date": "May 23, 1977",
+    "birth_place": "Hammersmith, London, England",
+    "nationality": "British",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Writer",
+      "Director",
+      "Presenter"
+    ],
+    "notable_awards": [
+      "BAFTA for Best Male Comedy Performance"
+    ],
+    "details": "Richard Ayoade is known for his role as Maurice Moss in 'The IT Crowd' and has worked extensively in comedy, both as a writer and director. He has directed films like 'Submarine' and presented shows such as 'Travel Man' and 'The Crystal Maze'.",
+    "id": "137810de"
+  },
+  {
+    "name": "Tom Sizemore",
+    "birth_date": "November 29, 1961",
+    "death_date": "March 3, 2023",
+    "birth_place": "Detroit, Michigan, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "Saving Private Ryan",
+      "Heat",
+      "Black Hawk Down"
+    ],
+    "details": "Tom Sizemore was known for his performances in action and crime dramas, including 'Saving Private Ryan' and 'Black Hawk Down'. Despite a prolific career, his struggles with addiction impacted his career. He also lent his voice to the character Sonny Forelli in the game 'Grand Theft Auto: Vice City'.",
+    "id": "8bbe2254"
+  },
+  {
+    "name": "Henry Fonda",
+    "birth_date": "May 16, 1905",
+    "death_date": "August 12, 1982",
+    "birth_place": "Grand Island, Nebraska, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor",
+      "BAFTA for Best Foreign Actor"
+    ],
+    "details": "Henry Fonda was an iconic American actor known for embodying the 'everyman' on screen. His career spanned over five decades, including roles in '12 Angry Men', 'On Golden Pond', and 'The Grapes of Wrath'. He won the Academy Award for Best Actor for his role in 'On Golden Pond'.",
+    "id": "c825fdad"
+  },
+  {
+    "name": "Eli Wallach",
+    "birth_date": "December 7, 1915",
+    "death_date": "June 24, 2014",
+    "birth_place": "Brooklyn, New York City, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "BAFTA Award",
+      "Tony Award"
+    ],
+    "details": "Eli Wallach was a distinguished character actor with a career spanning over six decades. He was known for roles in 'The Magnificent Seven' and 'The Good, the Bad and the Ugly'. Wallach was a prominent stage actor and a founding member of the Actors Studio.",
+    "id": "35f6b388"
+  },
+  {
+    "name": "Uma Thurman",
+    "birth_date": "April 29, 1970",
+    "birth_place": "Boston, Massachusetts, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Model"
+    ],
+    "notable_roles": [
+      "Pulp Fiction",
+      "Kill Bill"
+    ],
+    "details": "Uma Thurman is known for her versatile roles in films such as Quentin Tarantino's 'Pulp Fiction' and the 'Kill Bill' series. She has received numerous accolades and is recognized for her work in both independent films and blockbusters.",
+    "id": "c5ef5897"
+  },
+  {
+    "name": "Kang-ho Song",
+    "birth_date": "January 17, 1967",
+    "birth_place": "Gimhae, South Korea",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Blue Dragon Film Award",
+      "Asian Film Award"
+    ],
+    "details": "Kang-ho Song is one of South Korea's most renowned actors, known for his performances in 'Parasite', 'Snowpiercer', and 'The Host'. He frequently collaborates with directors Bong Joon-ho and Park Chan-wook and is celebrated for his dynamic acting skills.",
+    "id": "5edd42e3"
+  },
+  {
+    "name": "Thomas Kretschmann",
+    "birth_date": "September 8, 1962",
+    "birth_place": "Dessau, East Germany (now Germany)",
+    "nationality": "German",
+    "occupation": [
+      "Actor",
+      "Model"
+    ],
+    "notable_roles": [
+      "The Pianist",
+      "Resident Evil: Apocalypse",
+      "King Kong"
+    ],
+    "details": "Thomas Kretschmann started his career in German television and films before transitioning to Hollywood. He gained recognition for roles in 'The Pianist' and 'Downfall'. Kretschmann has also played Baron von Strucker in Marvel films and has worked as a model for Hugo Boss.",
+    "id": "108c741d"
+  },
+  {
+    "name": "Orlando Bloom",
+    "birth_date": "January 13, 1977",
+    "birth_place": "Canterbury, Kent, England",
+    "nationality": "British",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Lord of the Rings",
+      "Pirates of the Caribbean"
+    ],
+    "details": "Orlando Bloom rose to fame with his roles as Legolas in 'The Lord of the Rings' and Will Turner in 'Pirates of the Caribbean'. He has been an advocate for environmental causes and serves as a UNICEF Goodwill Ambassador.",
+    "id": "144e0633"
+  },
+  {
+    "name": "Anna Gunn",
+    "birth_date": "August 11, 1968",
+    "birth_place": "Cleveland, Ohio, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award"
+    ],
+    "details": "Anna Gunn is best known for her role as Skyler White in 'Breaking Bad', for which she won two Primetime Emmy Awards. She has also starred in 'Deadwood' and 'Sully', and has appeared in theatre productions such as 'The Night of the Iguana'.",
+    "id": "ab1d1fec"
+  },
+  {
+    "name": "Katherine Parkinson",
+    "birth_date": "March 9, 1978",
+    "birth_place": "Hounslow, London, England",
+    "nationality": "British",
+    "occupation": [
+      "Actress",
+      "Playwright"
+    ],
+    "notable_awards": [
+      "BAFTA Television Award"
+    ],
+    "details": "Katherine Parkinson is known for her role as Jen Barber in 'The IT Crowd', for which she won a BAFTA Award. She has also worked extensively in theatre and appeared in series such as 'Defending the Guilty'. In 2021, she adapted her play 'Sitting' for BBC Four.",
+    "id": "710fcb33"
+  },
+  {
+    "name": "Clint Eastwood",
+    "birth_date": "May 31, 1930",
+    "birth_place": "San Francisco, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer",
+      "Composer"
+    ],
+    "notable_awards": [
+      "Academy Awards",
+      "Golden Globe Awards"
+    ],
+    "details": "Clint Eastwood is a legendary actor and filmmaker known for his roles in 'The Good, the Bad and the Ugly' and 'Dirty Harry'. As a director, he won Academy Awards for 'Unforgiven' and 'Million Dollar Baby'. Eastwood has had a career spanning more than six decades, and he is also known for his work as a composer.",
+    "id": "b9db7320"
+  },
+  {
+    "name": "Glenn Howerton",
+    "birth_date": "April 13, 1976",
+    "birth_place": "Japan",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer",
+      "Writer"
+    ],
+    "notable_roles": [
+      "It's Always Sunny in Philadelphia"
+    ],
+    "details": "Glenn Howerton is best known for his role as Dennis Reynolds in 'It's Always Sunny in Philadelphia', a show he also writes and produces. He has also appeared in 'A.P. Bio' and 'The Mindy Project'.",
+    "id": "2db692ea"
+  },
+  {
+    "name": "Samuel L. Jackson",
+    "birth_date": "December 21, 1948",
+    "birth_place": "Washington, D.C., USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Academy Honorary Award",
+      "BAFTA Award for Best Supporting Actor"
+    ],
+    "details": "Samuel L. Jackson is one of the most recognized actors of his generation and has appeared in over 150 films. He is known for roles in movies such as 'Pulp Fiction', 'Die Hard with a Vengeance', and the Marvel Cinematic Universe as Nick Fury. He received an Academy Honorary Award in 2022 and became a naturalized citizen of Gabon in 2019.",
+    "id": "79c60df3"
+  },
+  {
+    "name": "Carrie-Anne Moss",
+    "birth_date": "August 21, 1967",
+    "birth_place": "Vancouver, British Columbia, Canada",
+    "nationality": "Canadian",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_awards": [
+      "Independent Spirit Award for Best Supporting Female"
+    ],
+    "details": "Carrie-Anne Moss rose to international fame as Trinity in 'The Matrix' series. She has appeared in numerous films, including 'Memento', 'Chocolat', and 'Disturbia'. Moss is recognized for her action roles and strong on-screen presence.",
+    "id": "f9b87625"
+  },
+  {
+    "name": "Edward Furlong",
+    "birth_date": "August 2, 1977",
+    "birth_place": "Glendale, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "Terminator 2: Judgment Day",
+      "American History X"
+    ],
+    "details": "Edward Furlong gained fame as John Connor in 'Terminator 2: Judgment Day'. He later starred in 'American History X' and 'Detroit Rock City'. His career has had ups and downs, marked by personal struggles and legal issues.",
+    "id": "a49b322e"
+  },
+  {
+    "name": "Joe Pesci",
+    "birth_date": "February 9, 1943",
+    "birth_place": "Newark, New Jersey, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Musician"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "details": "Joe Pesci is known for his roles in films such as 'Goodfellas', 'Raging Bull', and 'Home Alone'. He won an Academy Award for his performance in 'Goodfellas'. Pesci has a distinctive acting style, often portraying volatile characters.",
+    "id": "65fcea85"
+  },
+  {
+    "name": "Scarlett Johansson",
+    "birth_date": "November 22, 1984",
+    "birth_place": "New York City, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Singer"
+    ],
+    "notable_awards": [
+      "BAFTA Award for Best Actress",
+      "Tony Award"
+    ],
+    "details": "Scarlett Johansson is one of the highest-paid actresses in the world, known for roles in 'Lost in Translation', 'Marriage Story', and as Black Widow in the Marvel Cinematic Universe. She has received numerous accolades, including a BAFTA Award.",
+    "id": "13994bed"
+  },
+  {
+    "name": "Steve Carell",
+    "birth_date": "August 16, 1962",
+    "birth_place": "Concord, Massachusetts, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Comedian",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Golden Globe Award"
+    ],
+    "details": "Steve Carell gained fame for his role as Michael Scott in 'The Office'. He has also starred in films such as 'The 40-Year-Old Virgin', 'Foxcatcher', and 'Beautiful Boy'. Carell has been praised for both his comedic and dramatic performances.",
+    "id": "a3498175"
+  },
+  {
+    "name": "Michael Ontkean",
+    "birth_date": "January 24, 1946",
+    "birth_place": "Vancouver, British Columbia, Canada",
+    "nationality": "Canadian",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "Twin Peaks",
+      "Slap Shot"
+    ],
+    "details": "Michael Ontkean is best known for his role as Sheriff Harry S. Truman in 'Twin Peaks' and for starring in the sports comedy 'Slap Shot'. He retired from acting in the early 2000s and declined to return for the 'Twin Peaks' revival.",
+    "id": "e47493e5"
+  },
+  {
+    "name": "Carrie Fisher",
+    "birth_date": "October 21, 1956",
+    "death_date": "December 27, 2016",
+    "birth_place": "Burbank, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Writer"
+    ],
+    "notable_awards": [
+      "Grammy Award for Best Spoken Word Album"
+    ],
+    "details": "Carrie Fisher gained fame as Princess Leia in the 'Star Wars' series. She was also an accomplished writer, known for 'Postcards from the Edge' and her one-woman play 'Wishful Drinking'. Fisher was a vocal advocate for mental health awareness and openly discussed her struggles with bipolar disorder and addiction.",
+    "id": "9a44fb50"
+  },
+  {
+    "name": "Matthew Broderick",
+    "birth_date": "March 21, 1962",
+    "birth_place": "Manhattan, New York City, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Tony Award for Best Featured Actor in a Play"
+    ],
+    "details": "Matthew Broderick is best known for his roles in 'Ferris Bueller's Day Off', 'WarGames', and 'The Lion King' as the voice of Simba. He is also known for his Broadway career, winning a Tony Award for 'Brighton Beach Memoirs' and being inducted into the American Theater Hall of Fame in 2017.",
+    "id": "5901d0e4"
+  },
+  {
+    "name": "John Krasinski",
+    "birth_date": "October 20, 1979",
+    "birth_place": "Newton, Massachusetts, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Screen Actors Guild Award"
+    ],
+    "details": "John Krasinski is known for his role as Jim Halpert on 'The Office'. He made his directorial debut with 'Brief Interviews with Hideous Men' and gained further recognition for directing and starring in 'A Quiet Place'. Krasinski also portrayed Jack Ryan in the Amazon Prime series 'Jack Ryan'.",
+    "id": "927949e9"
+  },
+  {
+    "name": "Dominic West",
+    "birth_date": "October 15, 1969",
+    "birth_place": "Sheffield, South Yorkshire, England",
+    "nationality": "British",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Critics' Choice Television Award"
+    ],
+    "details": "Dominic West is known for his roles in 'The Wire' as Detective Jimmy McNulty and in 'The Affair', for which he received critical acclaim. He has also appeared in films such as '300' and 'Tomb Raider'.",
+    "id": "7f741b9e"
+  },
+  {
+    "name": "Courteney Cox",
+    "birth_date": "June 15, 1964",
+    "birth_place": "Birmingham, Alabama, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Screen Actors Guild Award"
+    ],
+    "details": "Courteney Cox gained fame as Monica Geller on the sitcom 'Friends'. She also starred in the 'Scream' film series and 'Cougar Town', which earned her a Golden Globe nomination. Cox has also produced various shows, including 'Dirt' and '9 Months with Courteney Cox'.",
+    "id": "227e0a15"
+  },
+  {
+    "name": "Marlon Brando",
+    "birth_date": "April 3, 1924",
+    "death_date": "July 1, 2004",
+    "birth_place": "Omaha, Nebraska, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor"
+    ],
+    "details": "Marlon Brando is regarded as one of the greatest actors in cinema history, known for his roles in 'A Streetcar Named Desire', 'On the Waterfront', and 'The Godfather'. He won two Academy Awards and was an advocate for civil rights and Native American rights.",
+    "id": "5727b095"
+  },
+  {
+    "name": "Joaquin Phoenix",
+    "birth_date": "October 28, 1974",
+    "birth_place": "San Juan, Puerto Rico",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award",
+      "Golden Globe",
+      "Grammy"
+    ],
+    "details": "Joaquin Phoenix is known for his roles in films such as 'Gladiator', 'Walk the Line', and 'Joker', for which he won the Academy Award for Best Actor in 2020. He is also an animal rights activist and has been vegan since childhood.",
+    "id": "d04092ed"
+  },
+  {
+    "name": "Matthew McConaughey",
+    "birth_date": "November 4, 1969",
+    "birth_place": "Uvalde, Texas, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor"
+    ],
+    "details": "Matthew McConaughey gained fame with 'Dazed and Confused' and went on to star in many romantic comedies before transitioning to more dramatic roles, earning an Academy Award for his role in 'Dallas Buyers Club'. He is also known for his memoir, 'Greenlights'.",
+    "id": "497d991c"
+  },
+  {
+    "name": "Lorraine Bracco",
+    "birth_date": "October 2, 1954",
+    "birth_place": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_awards": [
+      "Emmy Award nominations",
+      "Golden Globe nominations"
+    ],
+    "details": "Lorraine Bracco is best known for her role as Dr. Jennifer Melfi on 'The Sopranos', for which she received multiple Emmy and Golden Globe nominations. She also played Karen Hill in 'Goodfellas'.",
+    "id": "c8623676"
+  },
+  {
+    "name": "Brad Pitt",
+    "birth_date": "December 18, 1963",
+    "birth_place": "Shawnee, Oklahoma, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Academy Awards",
+      "Golden Globe Awards"
+    ],
+    "details": "Brad Pitt is an acclaimed actor and producer known for films such as 'Fight Club', 'Once Upon a Time in Hollywood', and '12 Years a Slave'. He has received numerous awards, including Academy Awards for both acting and producing.",
+    "id": "ce533f88"
+  },
+  {
+    "name": "Donna Reed",
+    "birth_date": "January 27, 1921",
+    "death_date": "January 14, 1986",
+    "birth_place": "Denison, Iowa, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Supporting Actress"
+    ],
+    "details": "Donna Reed was a beloved actress known for her roles in 'It's a Wonderful Life' and 'From Here to Eternity', for which she won an Academy Award. She also starred in the popular TV series 'The Donna Reed Show'.",
+    "id": "36b94661"
+  },
+  {
+    "name": "Harrison Ford",
+    "birth_date": "July 13, 1942",
+    "birth_place": "Chicago, Illinois, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "AFI Life Achievement Award"
+    ],
+    "details": "Harrison Ford is famous for his iconic roles as Han Solo in 'Star Wars' and Indiana Jones in the 'Indiana Jones' series. He has had a career spanning several decades, becoming one of Hollywood's most enduring stars.",
+    "id": "73fc9e0b"
+  },
+  {
+    "name": "Michael Imperioli",
+    "birth_date": "March 26, 1966",
+    "birth_place": "Mount Vernon, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Writer",
+      "Musician"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award"
+    ],
+    "details": "Michael Imperioli is known for his role as Christopher Moltisanti on 'The Sopranos', for which he won a Primetime Emmy Award. He has also worked as a writer and musician, and recently appeared in the HBO series 'The White Lotus'.",
+    "id": "aff50de6"
+  },
+  {
+    "name": "Martin Balsam",
+    "birth_date": "November 4, 1919",
+    "death_date": "February 13, 1996",
+    "birth_place": "The Bronx, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "details": "Martin Balsam was known for his versatile acting in films such as '12 Angry Men', 'Psycho', and 'A Thousand Clowns', the latter of which earned him an Academy Award. He had a long career in film, television, and theatre, and was known for his role in 'Archie Bunker's Place'.",
+    "id": "c24af724"
+  },
+  {
+    "name": "Morgan Freeman",
+    "birth_date": "June 1, 1937",
+    "birth_place": "Memphis, Tennessee, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer",
+      "Narrator"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "details": "Morgan Freeman is an acclaimed actor known for his distinctive voice and roles in films such as 'The Shawshank Redemption', 'Driving Miss Daisy', and 'Million Dollar Baby', for which he won an Academy Award. He is also known for his work as a narrator in documentaries.",
+    "id": "84583c27"
+  },
+  {
+    "name": "Elijah Wood",
+    "birth_date": "January 28, 1981",
+    "birth_place": "Cedar Rapids, Iowa, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_roles": [
+      "The Lord of the Rings Trilogy"
+    ],
+    "details": "Elijah Wood is best known for his role as Frodo Baggins in 'The Lord of the Rings' trilogy. He began his career as a child actor and has also worked as a producer, founding his production company SpectreVision, which focuses on horror films.",
+    "id": "b554d9ab"
+  },
+  {
+    "name": "Lee Van Cleef",
+    "birth_date": "January 9, 1925",
+    "death_date": "December 16, 1989",
+    "birth_place": "Somerville, New Jersey, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Good, the Bad and the Ugly",
+      "For a Few Dollars More"
+    ],
+    "details": "Lee Van Cleef was an actor known for his roles in Spaghetti Westerns, often portraying villains or antiheroes. His most famous roles include appearances in Sergio Leone's films 'The Good, the Bad and the Ugly' and 'For a Few Dollars More'.",
+    "id": "cb1a8128"
+  },
+  {
+    "name": "James Gandolfini",
+    "birth_date": "September 18, 1961",
+    "death_date": "June 19, 2013",
+    "birth_place": "Westwood, New Jersey, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award"
+    ],
+    "details": "James Gandolfini is best known for his role as Tony Soprano in 'The Sopranos', which earned him multiple Emmy Awards. He also appeared in films such as 'True Romance' and produced documentaries like 'Alive Day Memories: Home from Iraq'.",
+    "id": "86dae1f2"
+  },
+  {
+    "name": "Christian Bale",
+    "birth_date": "January 30, 1974",
+    "birth_place": "Haverfordwest, Pembrokeshire, Wales",
+    "nationality": "British",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "details": "Christian Bale is known for his versatility and dedication to his roles, including dramatic physical transformations. He has starred in films like 'American Psycho', 'The Dark Knight Trilogy', and 'The Fighter', for which he won an Academy Award.",
+    "id": "c23bfff1"
+  },
+  {
+    "name": "Bob Gunton",
+    "birth_date": "November 15, 1945",
+    "birth_place": "Santa Monica, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Shawshank Redemption"
+    ],
+    "details": "Bob Gunton is best known for his role as Warden Norton in 'The Shawshank Redemption'. He has also appeared in films such as 'Demolition Man' and 'The Perfect Storm', and has had a successful stage career, including a Tony Award nomination.",
+    "id": "c633ddf5"
+  },
+  {
+    "name": "Lea Thompson",
+    "birth_date": "May 31, 1961",
+    "birth_place": "Rochester, Minnesota, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Director"
+    ],
+    "notable_awards": [
+      "People's Choice Award"
+    ],
+    "details": "Lea Thompson is best known for her role as Lorraine Baines in the 'Back to the Future' trilogy. She also starred in the NBC sitcom 'Caroline in the City' and directed episodes of shows like 'Resident Alien' and 'Star Trek: Picard'. Thompson has also had a successful career on Broadway and in various TV movies, including the 'Jane Doe' series.",
+    "id": "fc6d851d"
+  },
+  {
+    "name": "Betsy Brandt",
+    "birth_date": "March 14, 1973",
+    "birth_place": "Bay City, Michigan, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_roles": [
+      "Breaking Bad",
+      "Life in Pieces"
+    ],
+    "details": "Betsy Brandt is best known for her role as Marie Schrader in 'Breaking Bad'. She has also appeared in the TV show 'Life in Pieces' and had a guest role in 'Better Call Saul'. Brandt is recognized for her diverse acting across different genres of television.",
+    "id": "a25e4c6d"
+  },
+  {
+    "name": "Tim Robbins",
+    "birth_date": "October 16, 1958",
+    "birth_place": "West Covina, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "details": "Tim Robbins gained fame for his roles in films like 'The Shawshank Redemption', 'Mystic River', and 'Bull Durham'. He has also directed films with strong social themes, including 'Dead Man Walking'. Robbins founded the experimental theatre group Actors' Gang and has had a successful career both in front of and behind the camera.",
+    "id": "2e8e48c4"
+  },
+  {
+    "name": "Martina Gedeck",
+    "birth_date": "September 14, 1961",
+    "birth_place": "Munich, Germany",
+    "nationality": "German",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_roles": [
+      "The Lives of Others",
+      "The Baader Meinhof Complex"
+    ],
+    "details": "Martina Gedeck is a prominent German actress known for her roles in 'The Lives of Others' and 'The Baader Meinhof Complex'. She has worked extensively in both German and international cinema, and is regarded as one of Germany's most talented actresses.",
+    "id": "beb543b0"
+  },
+  {
+    "name": "Yeo-jeong Cho",
+    "birth_date": "February 10, 1981",
+    "birth_place": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_awards": [
+      "Blue Dragon Film Award"
+    ],
+    "details": "Yeo-jeong Cho is best known for her role in Bong Joon-ho's 'Parasite', which won the Academy Award for Best Picture. She has also starred in several successful Korean dramas and films, gaining international recognition for her performance in 'Parasite'.",
+    "id": "3775d258"
+  },
+  {
+    "name": "Jodie Foster",
+    "birth_date": "November 19, 1962",
+    "birth_place": "Los Angeles, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Director",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actress"
+    ],
+    "details": "Jodie Foster is a critically acclaimed actress known for her roles in 'The Silence of the Lambs', 'Taxi Driver', and 'The Accused'. She has won two Academy Awards for Best Actress and has also directed several films, including 'The Beaver' and 'Money Monster'.",
+    "id": "277066b9"
+  },
+  {
+    "name": "Jerry Seinfeld",
+    "birth_date": "April 29, 1954",
+    "birth_place": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Writer"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award"
+    ],
+    "details": "Jerry Seinfeld is best known as the co-creator and star of the sitcom 'Seinfeld', which is widely regarded as one of the greatest and most influential sitcoms of all time. He is also known for his work as a stand-up comedian and for the Netflix series 'Comedians in Cars Getting Coffee'.",
+    "id": "7665e8bb"
+  },
+  {
+    "name": "Jason Alexander",
+    "birth_date": "September 23, 1959",
+    "birth_place": "Newark, New Jersey, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Comedian",
+      "Director"
+    ],
+    "notable_awards": [
+      "Screen Actors Guild Award"
+    ],
+    "details": "Jason Alexander is best known for his role as George Costanza on the hit sitcom 'Seinfeld'. He has also appeared in numerous Broadway productions, including 'Jerome Robbins' Broadway', for which he won a Tony Award. Alexander has also worked as a voice actor in animated shows and movies.",
+    "id": "fdeca083"
+  },
+  {
+    "name": "Gabriel Byrne",
+    "birth_date": "May 12, 1950",
+    "birth_place": "Dublin, Ireland",
+    "nationality": "Irish",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Golden Globe Award"
+    ],
+    "details": "Gabriel Byrne has had a long career in both film and television, with notable roles in films like 'The Usual Suspects' and 'Miller's Crossing'. He won a Golden Globe for his role in the television series 'In Treatment'. Byrne has also produced several films and is known for his work in independent cinema.",
+    "id": "2f12e671"
+  },
+  {
+    "name": "Melissa Benoist",
+    "birth_date": "October 4, 1988",
+    "birth_place": "Houston, Texas, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Singer"
+    ],
+    "notable_roles": [
+      "Supergirl"
+    ],
+    "details": "Melissa Benoist is best known for her role as Kara Danvers/Supergirl in the television series 'Supergirl'. She also appeared in 'Glee' and in the Oscar-winning film 'Whiplash'. Benoist has been involved in several charitable causes and is an advocate for mental health awareness.",
+    "id": "279c7777"
+  },
+  {
+    "name": "Joseph Gordon-Levitt",
+    "birth_date": "February 17, 1981",
+    "birth_place": "Los Angeles, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award"
+    ],
+    "details": "Joseph Gordon-Levitt gained recognition as a child actor on the television show '3rd Rock from the Sun' and went on to star in films like 'Inception', '500 Days of Summer', and 'Looper'. He is also the founder of the online media platform HitRecord, which promotes collaborative creative projects.",
+    "id": "cf37e8b0"
+  },
+  {
+    "name": "Matt Damon",
+    "birth_date": "October 8, 1970",
+    "birth_place": "Cambridge, Massachusetts, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer",
+      "Screenwriter"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Original Screenplay"
+    ],
+    "details": "Matt Damon is known for his roles in films such as 'Good Will Hunting', 'The Bourne Identity', and 'The Martian'. He won an Academy Award for co-writing 'Good Will Hunting' with Ben Affleck. Damon has also been actively involved in humanitarian work, particularly with Water.org, an organization he co-founded.",
+    "id": "f78fc547"
+  },
+  {
+    "name": "Sebastian Koch",
+    "birth_date": "May 31, 1962",
+    "birth_place": "Karlsruhe, Germany",
+    "nationality": "German",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Lives of Others",
+      "Bridge of Spies"
+    ],
+    "details": "Sebastian Koch is a renowned German actor known for his roles in 'The Lives of Others' and Steven Spielberg's 'Bridge of Spies'. He has also appeared in numerous German television productions and is recognized for his work in both German and international cinema.",
+    "id": "76eb0b43"
+  },
+  {
+    "name": "Beverly D'Angelo",
+    "birth_date": "November 15, 1951",
+    "birth_place": "Columbus, Ohio, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_roles": [
+      "National Lampoon's Vacation series"
+    ],
+    "details": "Beverly D'Angelo is best known for her role as Ellen Griswold in the 'National Lampoon's Vacation' film series. She has also appeared in films such as 'Coal Miner's Daughter' and 'American History X'. D'Angelo has had a long career in both film and television.",
+    "id": "352ffd59"
+  },
+  {
+    "name": "Mädchen Amick",
+    "birth_date": "December 12, 1970",
+    "birth_place": "Sparks, Nevada, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_roles": [
+      "Twin Peaks",
+      "Riverdale"
+    ],
+    "details": "Mädchen Amick is known for her role as Shelly Johnson on 'Twin Peaks' and more recently as Alice Cooper on 'Riverdale'. She has appeared in various television shows and films throughout her career, and is known for her versatility as an actress.",
+    "id": "5fc92d7a"
+  },
+  {
+    "name": "Charlie Day",
+    "birth_date": "February 9, 1976",
+    "birth_place": "New York City, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Comedian",
+      "Writer"
+    ],
+    "notable_roles": [
+      "It's Always Sunny in Philadelphia"
+    ],
+    "details": "Charlie Day is best known for his role as Charlie Kelly on the television series 'It's Always Sunny in Philadelphia', which he also co-created. He has also starred in films such as 'Horrible Bosses', 'Pacific Rim', and 'The Lego Movie'.",
+    "id": "b403aad3"
+  },
+  {
+    "name": "Anthony Hopkins",
+    "birth_date": "December 31, 1937",
+    "birth_place": "Port Talbot, Wales",
+    "nationality": "British",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Academy Awards",
+      "BAFTA Award"
+    ],
+    "details": "Anthony Hopkins is an acclaimed actor known for his roles in films like 'The Silence of the Lambs', 'The Remains of the Day', and 'The Father'. He has won two Academy Awards for Best Actor and is celebrated for his powerful and diverse performances across stage and screen&#8203;:contentReference[oaicite:0]{index=0}.",
+    "id": "c48f69e6"
+  },
+  {
+    "name": "Connie Nielsen",
+    "birth_date": "July 3, 1965",
+    "birth_place": "Frederikshavn, Denmark",
+    "nationality": "Danish",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_roles": [
+      "Gladiator",
+      "Wonder Woman"
+    ],
+    "details": "Connie Nielsen is a Danish actress known for her roles in 'Gladiator', 'Wonder Woman', and 'The Devil's Advocate'. She is multilingual, fluent in Danish, English, French, German, Italian, Norwegian, and Swedish. She has won the Bodil Award for Best Actress for her role in the Danish film 'Brothers'&#8203;:contentReference[oaicite:1]{index=1}.",
+    "id": "f4ac7c06"
+  },
+  {
+    "name": "Hugh Jackman",
+    "birth_date": "October 12, 1968",
+    "birth_place": "Sydney, Australia",
+    "nationality": "Australian",
+    "occupation": [
+      "Actor",
+      "Singer"
+    ],
+    "notable_awards": [
+      "Golden Globe Award",
+      "Tony Award"
+    ],
+    "details": "Hugh Jackman is known for his versatility as an actor, starring in roles such as Wolverine in the 'X-Men' series, 'Les Misérables', and 'The Greatest Showman'. He has received a Tony Award for his Broadway performances and a Golden Globe for his work in film.",
+    "id": "75c29cb0"
+  },
+  {
+    "name": "Michael J. Fox",
+    "birth_date": "June 9, 1961",
+    "birth_place": "Edmonton, Alberta, Canada",
+    "nationality": "Canadian",
+    "occupation": [
+      "Actor",
+      "Author"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Awards",
+      "Golden Globe Awards"
+    ],
+    "details": "Michael J. Fox gained fame for his role as Marty McFly in 'Back to the Future' and also starred in 'Family Ties' and 'Spin City'. He founded the Michael J. Fox Foundation for Parkinson's Research after being diagnosed with Parkinson's disease in 1991, and he is an advocate for research in the field&#8203;:contentReference[oaicite:2]{index=2}.",
+    "id": "bcecab70"
+  },
+  {
+    "name": "Lisa Kudrow",
+    "birth_date": "July 30, 1963",
+    "birth_place": "Encino, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award"
+    ],
+    "details": "Lisa Kudrow is best known for her role as Phoebe Buffay on the hit sitcom 'Friends', for which she won a Primetime Emmy Award. She has also starred in 'The Comeback' and 'Web Therapy', and is known for her comedic talent and distinct portrayal of quirky characters.",
+    "id": "c0ee83fd"
+  },
+  {
+    "name": "Kevin Spacey",
+    "birth_date": "July 26, 1959",
+    "birth_place": "South Orange, New Jersey, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Academy Awards",
+      "Golden Globe Award"
+    ],
+    "details": "Kevin Spacey is known for his roles in 'American Beauty', 'The Usual Suspects', and 'House of Cards'. He won two Academy Awards and a Golden Globe Award, and was the artistic director of The Old Vic theatre in London. Spacey has faced several allegations of sexual misconduct in recent years&#8203;:contentReference[oaicite:3]{index=3}.",
+    "id": "e833c0db"
+  },
+  {
+    "name": "Michael Richards",
+    "birth_date": "July 24, 1949",
+    "birth_place": "Culver City, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Comedian"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Awards"
+    ],
+    "details": "Michael Richards is best known for his role as Cosmo Kramer on the iconic sitcom 'Seinfeld', for which he won three Primetime Emmy Awards. He started his career on the sketch show 'Fridays' and made appearances in films such as 'UHF'.",
+    "id": "97deaa6d"
+  },
+  {
+    "name": "Wendell Pierce",
+    "birth_date": "December 8, 1963",
+    "birth_place": "New Orleans, Louisiana, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Wire",
+      "Suits"
+    ],
+    "details": "Wendell Pierce is known for his roles in 'The Wire' as Detective Bunk Moreland and as Robert Zane in 'Suits'. He has also appeared in several movies, including 'Selma' and 'The Money Pit', and is known for his advocacy work in his hometown of New Orleans.",
+    "id": "6864adb9"
+  },
+  {
+    "name": "Laurence Fishburne",
+    "birth_date": "July 30, 1961",
+    "birth_place": "Augusta, Georgia, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Emmy Award",
+      "Tony Award"
+    ],
+    "details": "Laurence Fishburne gained fame as Morpheus in 'The Matrix' series and has appeared in numerous other films, including 'Apocalypse Now' and 'Boyz n the Hood'. He has won an Emmy Award for 'Tribeca' and a Tony Award for his stage work.",
+    "id": "7fb15ee4"
+  },
+  {
+    "name": "Michael Berryman",
+    "birth_date": "September 4, 1948",
+    "birth_place": "Los Angeles, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Hills Have Eyes"
+    ],
+    "details": "Michael Berryman is best known for his role in the horror classic 'The Hills Have Eyes'. He often plays characters with unique physical characteristics due to a rare condition, hypohidrotic ectodermal dysplasia, which prevents the formation of hair, nails, and teeth.",
+    "id": "90a7d789"
+  },
+  {
+    "name": "Keanu Reeves",
+    "birth_date": "September 2, 1964",
+    "birth_place": "Beirut, Lebanon",
+    "nationality": "Canadian",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "MTV Movie Award"
+    ],
+    "details": "Keanu Reeves is famous for his roles in 'The Matrix', 'John Wick', and 'Speed'. Known for his versatility and dedication to his roles, Reeves is celebrated both for his action films and for his humble demeanor and generosity off-screen.",
+    "id": "796d63d2"
+  },
+  {
+    "name": "Kyle MacLachlan",
+    "birth_date": "February 22, 1959",
+    "birth_place": "Yakima, Washington, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "Twin Peaks",
+      "Dune"
+    ],
+    "details": "Kyle MacLachlan is best known for his roles as Special Agent Dale Cooper in David Lynch's 'Twin Peaks' and as Paul Atreides in 'Dune'. He has collaborated frequently with David Lynch and is recognized for his enigmatic and often surreal characters.",
+    "id": "cd4f8c7d"
+  },
+  {
+    "name": "Mark Hamill",
+    "birth_date": "September 25, 1951",
+    "birth_place": "Oakland, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Voice Actor"
+    ],
+    "notable_roles": [
+      "Star Wars",
+      "Batman: The Animated Series"
+    ],
+    "details": "Mark Hamill gained fame as Luke Skywalker in the 'Star Wars' franchise. He is also known for his voice acting, particularly as the Joker in 'Batman: The Animated Series'. He has enjoyed a career spanning live-action, voice roles, and stage performances.",
+    "id": "b4a43353"
+  },
+  {
+    "name": "Adrien Brody",
+    "birth_date": "April 14, 1973",
+    "birth_place": "New York City, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor"
+    ],
+    "details": "Adrien Brody is known for his role in 'The Pianist', which won him the Academy Award for Best Actor, making him the youngest actor ever to win in that category. He is also known for films like 'King Kong' and 'The Grand Budapest Hotel'&#8203;:contentReference[oaicite:0]{index=0}.",
+    "id": "c1becd09"
+  },
+  {
+    "name": "Jenna Fischer",
+    "birth_date": "March 7, 1974",
+    "birth_place": "Fort Wayne, Indiana, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Screen Actors Guild Award"
+    ],
+    "details": "Jenna Fischer is best known for her role as Pam Beesly on 'The Office'. She has also directed and appeared in films like 'LolliLove'. Fischer has expressed her passion for portraying relatable characters, especially in her role as Pam&#8203;:contentReference[oaicite:1]{index=1}.",
+    "id": "b2f30522"
+  },
+  {
+    "name": "Julie Kavner",
+    "birth_date": "September 7, 1950",
+    "birth_place": "Los Angeles, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award"
+    ],
+    "details": "Julie Kavner is widely recognized for her voice work as Marge Simpson on 'The Simpsons'. Before 'The Simpsons', she starred in 'Rhoda' and received an Emmy for her role. She is known for her distinctive 'honeyed gravel' voice, which has become iconic in her portrayal of Marge&#8203;:contentReference[oaicite:2]{index=2}.",
+    "id": "9436df8d"
+  },
+  {
+    "name": "Gary Sinise",
+    "birth_date": "March 17, 1955",
+    "birth_place": "Blue Island, Illinois, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer",
+      "Musician"
+    ],
+    "notable_awards": [
+      "Golden Globe Award",
+      "Primetime Emmy Award"
+    ],
+    "details": "Gary Sinise is known for his roles in films such as 'Forrest Gump', where he played Lieutenant Dan, and 'Of Mice and Men'. He is also recognized for his portrayal of Detective Mac Taylor in 'CSI: NY'. Sinise is active in supporting veterans and founded the Gary Sinise Foundation&#8203;:contentReference[oaicite:3]{index=3}.",
+    "id": "b60e74aa"
+  },
+  {
+    "name": "Lance Reddick",
+    "birth_date": "June 7, 1962",
+    "death_date": "March 17, 2023",
+    "birth_place": "Baltimore, Maryland, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Wire",
+      "John Wick",
+      "Bosch"
+    ],
+    "details": "Lance Reddick is known for his roles in 'The Wire', 'Fringe', and the 'John Wick' series. He also voiced Sylens in the video game 'Horizon Zero Dawn'. Reddick passed away in 2023, and the Lance Reddick Legacy Award was established in his honor&#8203;:contentReference[oaicite:4]{index=4}.",
+    "id": "a22ee1b8"
+  },
+  {
+    "name": "Michael Berryman",
+    "birth_date": "September 4, 1948",
+    "birth_place": "Los Angeles, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "The Hills Have Eyes"
+    ],
+    "details": "Michael Berryman is best known for his role in the horror classic 'The Hills Have Eyes'. Due to his unique appearance caused by a rare condition, he often portrayed characters with distinctive features in horror films.",
+    "id": "90a7d789"
+  },
+  {
+    "name": "John Travolta",
+    "birth_date": "February 18, 1954",
+    "birth_place": "Englewood, New Jersey, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Golden Globe Award"
+    ],
+    "details": "John Travolta rose to fame with films like 'Saturday Night Fever' and 'Grease'. He experienced a career resurgence with 'Pulp Fiction' and has continued to star in films across various genres, including musicals, action, and drama.",
+    "id": "299f9296"
+  },
+  {
+    "name": "Natalie Portman",
+    "birth_date": "June 9, 1981",
+    "birth_place": "Jerusalem, Israel",
+    "nationality": "Israeli-American",
+    "occupation": [
+      "Actress",
+      "Director"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actress"
+    ],
+    "details": "Natalie Portman gained recognition for her roles in films such as 'Black Swan', for which she won an Academy Award, 'V for Vendetta', and 'Jackie'. She started acting at a young age, debuting in 'The Professional'. Portman has also directed films such as 'A Tale of Love and Darkness'.",
+    "id": "8a566f85"
+  },
+  {
+    "name": "Jack Nicholson",
+    "birth_date": "April 22, 1937",
+    "birth_place": "Neptune City, New Jersey, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Filmmaker"
+    ],
+    "notable_awards": [
+      "Three Academy Awards",
+      "Six Golden Globe Awards"
+    ],
+    "details": "Jack Nicholson is one of the most celebrated actors of the 20th century, known for his roles in films like 'The Shining', 'One Flew Over the Cuckoo's Nest', and 'As Good as It Gets'. He has won three Academy Awards and has been nominated for numerous others throughout his five-decade career.",
+    "id": "35b4ec04"
+  },
+  {
+    "name": "Michael Clarke Duncan",
+    "birth_date": "December 10, 1957",
+    "death_date": "September 3, 2012",
+    "birth_place": "Chicago, Illinois, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award Nominee"
+    ],
+    "details": "Michael Clarke Duncan was best known for his role as John Coffey in 'The Green Mile', for which he received an Academy Award nomination. He also appeared in films like 'Armageddon', 'Daredevil', and 'Kung Fu Panda'. He passed away in 2012 due to complications following a heart attack.",
+    "id": "e629fc56"
+  },
+  {
+    "name": "Jeremy Irons",
+    "birth_date": "September 19, 1948",
+    "birth_place": "Cowes, Isle of Wight, England",
+    "nationality": "British",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor"
+    ],
+    "details": "Jeremy Irons is an acclaimed actor known for his roles in 'The Lion King' (voice of Scar), 'Reversal of Fortune' (for which he won an Academy Award), and 'The Borgias'. He has had a distinguished career across film, television, and stage.",
+    "id": "ea3674d8"
+  },
+  {
+    "name": "Christopher Lloyd",
+    "birth_date": "October 22, 1938",
+    "birth_place": "Stamford, Connecticut, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Three Primetime Emmy Awards"
+    ],
+    "details": "Christopher Lloyd is widely known for his iconic role as Doc Brown in the 'Back to the Future' trilogy. He also starred in 'The Addams Family' and won several Emmy Awards for his work on the television series 'Taxi'.",
+    "id": "92c09181"
+  },
+  {
+    "name": "Miles Teller",
+    "birth_date": "February 20, 1987",
+    "birth_place": "Downingtown, Pennsylvania, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Nominated for BAFTA Rising Star Award"
+    ],
+    "details": "Miles Teller is known for his roles in films such as 'Whiplash', 'The Spectacular Now', and 'Top Gun: Maverick'. He has received critical acclaim for his performance in 'Whiplash', which showcased his drumming skills.",
+    "id": "e1790e08"
+  },
+  {
+    "name": "Arnold Schwarzenegger",
+    "birth_date": "July 30, 1947",
+    "birth_place": "Thal, Styria, Austria",
+    "nationality": "Austrian-American",
+    "occupation": [
+      "Actor",
+      "Politician",
+      "Bodybuilder"
+    ],
+    "notable_awards": [
+      "Golden Globe Award"
+    ],
+    "details": "Arnold Schwarzenegger is a former professional bodybuilder and actor known for films like 'The Terminator' series, 'Predator', and 'Total Recall'. He served as the Governor of California from 2003 to 2011 and is a prominent figure in action cinema.",
+    "id": "06b27415"
+  },
+  {
+    "name": "Linda Hamilton",
+    "birth_date": "September 26, 1956",
+    "birth_place": "Salisbury, Maryland, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_awards": [
+      "Two Saturn Awards"
+    ],
+    "details": "Linda Hamilton is best known for her portrayal of Sarah Connor in 'The Terminator' films. She has also starred in 'Beauty and the Beast', a role that earned her Emmy and Golden Globe nominations. Hamilton is celebrated for her work in science fiction and action genres.",
+    "id": "9acde8e5"
+  },
+  {
+    "name": "Viggo Mortensen",
+    "birth_date": "October 20, 1958",
+    "birth_place": "New York City, New York, USA",
+    "nationality": "American-Danish",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Musician"
+    ],
+    "notable_awards": [
+      "Academy Award Nominee"
+    ],
+    "details": "Viggo Mortensen is best known for his role as Aragorn in 'The Lord of the Rings' trilogy. He has also appeared in films like 'Green Book', 'Eastern Promises', and 'A History of Violence'. Mortensen has directed films, including 'Falling' and 'The Dead Don't Hurt', and is also a published author and artist. He is known for his versatility and his dedication to method acting.",
+    "id": "233928c1"
+  },
+  {
+    "name": "Jennifer Aniston",
+    "birth_date": "February 11, 1969",
+    "birth_place": "Sherman Oaks, Los Angeles, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award",
+      "Golden Globe Award"
+    ],
+    "details": "Jennifer Aniston is widely recognized for her role as Rachel Green on the sitcom 'Friends', which earned her numerous awards and widespread popularity. She has also starred in movies like 'Marley & Me', 'The Break-Up', and 'We're the Millers'. Aniston is known for her comedic timing and has been involved in both acting and producing projects.",
+    "id": "b22ac162"
+  },
+  {
+    "name": "James Stewart",
+    "birth_date": "May 20, 1908",
+    "death_date": "July 2, 1997",
+    "birth_place": "Indiana, Pennsylvania, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor"
+    ],
+    "details": "James Stewart, often called 'Jimmy', was an iconic actor of the Golden Age of Hollywood, known for his distinctive drawl. He starred in films like 'It's a Wonderful Life', 'Rear Window', and 'Mr. Smith Goes to Washington'. He received an Academy Award for 'The Philadelphia Story' and was also a decorated World War II veteran.",
+    "id": "79ec544b"
+  },
+  {
+    "name": "Jean Reno",
+    "birth_date": "July 30, 1948",
+    "birth_place": "Casablanca, Morocco",
+    "nationality": "French",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "Léon: The Professional",
+      "The Da Vinci Code"
+    ],
+    "details": "Jean Reno is a French actor best known for his roles in 'Léon: The Professional', 'The Big Blue', and 'The Da Vinci Code'. He often plays characters with a strong moral compass or mysterious past, and his career spans across both French and Hollywood cinema.",
+    "id": "bb22326b"
+  },
+  {
+    "name": "Matheus Nachtergaele",
+    "birth_date": "January 3, 1969",
+    "birth_place": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Actor",
+      "Director"
+    ],
+    "notable_awards": [
+      "Grande Prêmio do Cinema Brasileiro"
+    ],
+    "details": "Matheus Nachtergaele is known for his roles in Brazilian films like 'City of God' and 'Auto da Compadecida'. He is also a stage actor and has directed films such as 'The Dead Girl's Feast'. Nachtergaele is celebrated for his dynamic and emotional acting style.",
+    "id": "ca217e57"
+  },
+  {
+    "name": "Edward Norton",
+    "birth_date": "August 18, 1969",
+    "birth_place": "Boston, Massachusetts, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Filmmaker"
+    ],
+    "notable_awards": [
+      "Golden Globe Award"
+    ],
+    "details": "Edward Norton is known for his roles in films like 'Fight Club', 'American History X', and 'Birdman'. He has received multiple Academy Award nominations and is also a director, known for 'Keeping the Faith' and 'Motherless Brooklyn'. Norton is recognized for his intense and transformative performances.",
+    "id": "30aed056"
+  },
+  {
+    "name": "Al Pacino",
+    "birth_date": "April 25, 1940",
+    "birth_place": "New York City, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Filmmaker"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor"
+    ],
+    "details": "Al Pacino is an iconic actor known for his roles in 'The Godfather' series, 'Scarface', and 'Scent of a Woman', for which he won an Academy Award. Pacino is considered one of the greatest actors of his generation, known for his powerful and intense performances.",
+    "id": "73fd0fb0"
+  },
+  {
+    "name": "Robin Wright",
+    "birth_date": "April 8, 1966",
+    "birth_place": "Dallas, Texas, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Director"
+    ],
+    "notable_awards": [
+      "Golden Globe Award"
+    ],
+    "details": "Robin Wright is best known for her roles in 'The Princess Bride', 'Forrest Gump', and as Claire Underwood in 'House of Cards', for which she won a Golden Globe Award. Wright has also ventured into directing and is recognized for her strong on-screen presence.",
+    "id": "c63e2d49"
+  },
+  {
+    "name": "Dana Ashbrook",
+    "birth_date": "May 24, 1967",
+    "birth_place": "San Diego, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "Twin Peaks"
+    ],
+    "details": "Dana Ashbrook is best known for his role as Bobby Briggs in David Lynch's 'Twin Peaks'. He reprised this role in the 2017 revival. Ashbrook has also appeared in various TV shows and films, and is recognized for his work in cult television.",
+    "id": "c8220ade"
+  },
+  {
+    "name": "Julia Louis-Dreyfus",
+    "birth_date": "January 13, 1961",
+    "birth_place": "New York City, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Comedian"
+    ],
+    "notable_awards": [
+      "11 Primetime Emmy Awards",
+      "Golden Globe Award",
+      "9 Screen Actors Guild Awards"
+    ],
+    "details": "Julia Louis-Dreyfus is known for her roles in popular TV series such as 'Seinfeld' (as Elaine Benes), 'Veep', and 'The New Adventures of Old Christine'. She has received numerous accolades throughout her career, including multiple Emmy Awards for her performances. Louis-Dreyfus was inducted into the Television Academy Hall of Fame in 2014 and received a star on the Hollywood Walk of Fame in 2010.",
+    "id": "4b975b4d"
+  },
+  {
+    "name": "Edie Falco",
+    "birth_date": "July 5, 1963",
+    "birth_place": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_awards": [
+      "4 Primetime Emmy Awards",
+      "2 Golden Globe Awards",
+      "5 Screen Actors Guild Awards"
+    ],
+    "details": "Edie Falco is best known for her roles as Carmela Soprano in 'The Sopranos' and as Jackie Peyton in 'Nurse Jackie'. She has received several awards for her work, including three Emmys for her role on 'The Sopranos'. Her performance as Carmela Soprano was highly acclaimed and is considered one of the greatest portrayals in television history.",
+    "id": "f610f4fc"
+  },
+  {
+    "name": "Heath Ledger",
+    "birth_date": "April 4, 1979",
+    "death_date": "January 22, 2008",
+    "birth_place": "Perth, Western Australia, Australia",
+    "nationality": "Australian",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "details": "Heath Ledger is known for his diverse roles, including Ennis Del Mar in 'Brokeback Mountain' and the Joker in 'The Dark Knight'. He won a posthumous Academy Award for Best Supporting Actor for his role as the Joker. Ledger's performance was widely praised for its depth and intensity, cementing his legacy as one of the finest actors of his generation.",
+    "id": "7f2efc21"
+  },
+  {
+    "name": "Ray Liotta",
+    "birth_date": "December 18, 1954",
+    "death_date": "May 26, 2022",
+    "birth_place": "Newark, New Jersey, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "Goodfellas",
+      "Field of Dreams"
+    ],
+    "details": "Ray Liotta was known for his role as Henry Hill in Martin Scorsese's 'Goodfellas'. He also appeared in films like 'Field of Dreams' and 'Cop Land'. Liotta's intense on-screen presence and ability to portray complex characters made him a standout actor in crime dramas.",
+    "id": "e9039936"
+  },
+  {
+    "name": "Tom Hanks",
+    "birth_date": "July 9, 1956",
+    "birth_place": "Concord, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer"
+    ],
+    "notable_awards": [
+      "2 Academy Awards for Best Actor"
+    ],
+    "details": "Tom Hanks is a beloved actor known for his roles in films like 'Forrest Gump', 'Saving Private Ryan', 'Cast Away', and 'Big'. He is widely regarded as one of the most versatile actors in Hollywood, with two Academy Awards for Best Actor in a Leading Role for his performances in 'Philadelphia' and 'Forrest Gump'.",
+    "id": "2a79848d"
+  },
+  {
+    "name": "Russell Crowe",
+    "birth_date": "April 7, 1964",
+    "birth_place": "Wellington, New Zealand",
+    "nationality": "New Zealand-Australian",
+    "occupation": [
+      "Actor",
+      "Musician"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor"
+    ],
+    "details": "Russell Crowe gained international fame for his role as Maximus in 'Gladiator', which earned him an Academy Award. He has also starred in films such as 'A Beautiful Mind' and 'The Insider'. Crowe is known for his intense dedication to his roles and has been recognized as one of the top actors of his generation.",
+    "id": "df16831a"
+  },
+  {
+    "name": "Sun-kyun Lee",
+    "birth_date": "March 2, 1975",
+    "birth_place": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "Parasite",
+      "A Hard Day"
+    ],
+    "details": "Sun-kyun Lee is a South Korean actor best known for his role in the Oscar-winning film 'Parasite'. He has also appeared in a number of South Korean films and television series, including 'A Hard Day' and 'My Mister'. Lee is recognized for his compelling performances in both drama and thriller genres.",
+    "id": "5a043637"
+  },
+  {
+    "name": "Ralph Fiennes",
+    "birth_date": "December 22, 1962",
+    "birth_place": "Ipswich, Suffolk, England",
+    "nationality": "British",
+    "occupation": [
+      "Actor",
+      "Director"
+    ],
+    "notable_awards": [
+      "BAFTA Award"
+    ],
+    "details": "Ralph Fiennes is known for his roles in films like 'Schindler's List', 'The English Patient', and as Lord Voldemort in the 'Harry Potter' series. He has received numerous awards, including a BAFTA for Best Actor. Fiennes is also a respected stage actor and has worked extensively with the Royal Shakespeare Company.",
+    "id": "6fc5d459"
+  },
+  {
+    "name": "Matt Berry",
+    "birth_date": "May 2, 1974",
+    "birth_place": "Bromham, Bedfordshire, England",
+    "nationality": "British",
+    "occupation": [
+      "Actor",
+      "Musician",
+      "Comedian"
+    ],
+    "notable_roles": [
+      "What We Do in the Shadows",
+      "The IT Crowd"
+    ],
+    "details": "Matt Berry is known for his distinctive voice and comedic roles in shows such as 'The IT Crowd' and 'What We Do in the Shadows'. He is also a talented musician, having released several albums.",
+    "id": "c243f2a9"
+  },
+  {
+    "name": "Nancy Cartwright",
+    "birth_date": "October 25, 1957",
+    "birth_place": "Dayton, Ohio, USA",
+    "nationality": "American",
+    "occupation": [
+      "Voice Actress",
+      "Actress"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award for Outstanding Voice-Over Performance",
+      "Annie Award for Best Voice Acting in the Field of Animation"
+    ],
+    "details": "Nancy Cartwright is best known for voicing Bart Simpson on 'The Simpsons', as well as other characters like Ralph Wiggum, Nelson Muntz, and Chuckie Finster. She has received numerous awards for her voice acting work and has trained under Daws Butler, a famous voice actor known for characters like Huckleberry Hound and Yogi Bear&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.",
+    "id": "59b2ba5c"
+  },
+  {
+    "name": "Kaitlin Olson",
+    "birth_date": "August 18, 1975",
+    "birth_place": "Portland, Oregon, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "notable_roles": [
+      "It's Always Sunny in Philadelphia",
+      "The Mick"
+    ],
+    "details": "Kaitlin Olson is known for her comedic roles, especially as Dee Reynolds in 'It's Always Sunny in Philadelphia'. She has also starred in 'The Mick' and has voiced characters in shows like 'Bob's Burgers' and 'Family Guy'&#8203;:contentReference[oaicite:2]{index=2}.",
+    "id": "71f99a35"
+  },
+  {
+    "name": "Dan Castellaneta",
+    "birth_date": "October 29, 1957",
+    "birth_place": "Chicago, Illinois, USA",
+    "nationality": "American",
+    "occupation": [
+      "Voice Actor",
+      "Comedian",
+      "Screenwriter"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Awards"
+    ],
+    "details": "Dan Castellaneta is famous for voicing Homer Simpson and numerous other characters on 'The Simpsons'. He has received several Emmy Awards for his work, and he is considered one of the most prolific voice actors in the industry&#8203;:contentReference[oaicite:3]{index=3}.",
+    "id": "5200dbfd"
+  },
+  {
+    "name": "Bryan Cranston",
+    "birth_date": "March 7, 1956",
+    "birth_place": "Hollywood, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Awards",
+      "Golden Globe Award"
+    ],
+    "details": "Bryan Cranston is best known for his role as Walter White in 'Breaking Bad', for which he won multiple Emmy Awards. He also played Hal in 'Malcolm in the Middle' and has worked as a director and producer on various television projects.",
+    "id": "1a161cbc"
+  },
+  {
+    "name": "Aaron Paul",
+    "birth_date": "August 27, 1979",
+    "birth_place": "Emmett, Idaho, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Awards"
+    ],
+    "details": "Aaron Paul gained fame for his role as Jesse Pinkman in 'Breaking Bad', earning him three Emmy Awards. He has also appeared in films like 'Need for Speed' and voiced Todd Chavez in the animated series 'BoJack Horseman'.",
+    "id": "7589d493"
+  },
+  {
+    "name": "Lee J. Cobb",
+    "birth_date": "December 8, 1911",
+    "death_date": "February 11, 1976",
+    "birth_place": "New York City, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "12 Angry Men",
+      "On the Waterfront"
+    ],
+    "details": "Lee J. Cobb was a prominent actor known for his powerful performances in films such as '12 Angry Men' and 'On the Waterfront'. He was a versatile actor, equally adept at playing villains and strong, authoritative figures.",
+    "id": "f6ca565c"
+  },
+  {
+    "name": "Alexandre Rodrigues",
+    "birth_date": "May 21, 1983",
+    "birth_place": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "City of God"
+    ],
+    "details": "Alexandre Rodrigues is best known for his role as Buscapé in 'City of God', a critically acclaimed Brazilian film. He has continued to work in Brazilian cinema and television.",
+    "id": "5035e269"
+  },
+  {
+    "name": "Robert De Niro",
+    "birth_date": "August 17, 1943",
+    "birth_place": "New York City, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer",
+      "Director"
+    ],
+    "notable_awards": [
+      "Two Academy Awards"
+    ],
+    "details": "Robert De Niro is regarded as one of the greatest actors of all time, known for roles in 'Taxi Driver', 'Raging Bull', 'The Godfather Part II', and 'Goodfellas'. He has worked extensively with director Martin Scorsese and has received numerous accolades for his career in film.",
+    "id": "8f6799b4"
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "birth_date": "November 11, 1974",
+    "birth_place": "Los Angeles, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor"
+    ],
+    "details": "Leonardo DiCaprio is an award-winning actor known for his roles in 'Titanic', 'Inception', 'The Wolf of Wall Street', and 'The Revenant', for which he won an Academy Award. He is also an environmental activist and philanthropist.",
+    "id": "c2f2124f"
+  },
+  {
+    "name": "Gary Oldman",
+    "birth_date": "March 21, 1958",
+    "birth_place": "London, England",
+    "nationality": "British",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor"
+    ],
+    "details": "Gary Oldman is known for his transformative performances in films like 'Sid and Nancy', 'The Dark Knight Trilogy', and 'Darkest Hour', for which he won an Academy Award for Best Actor. He has also played significant roles in 'Harry Potter' as Sirius Black and 'Tinker Tailor Soldier Spy'. He is known for his versatility, portraying both villains and heroic characters across various genres.",
+    "id": "8c3a6a69"
+  },
+  {
+    "name": "Rob McElhenney",
+    "birth_date": "April 14, 1977",
+    "birth_place": "Philadelphia, Pennsylvania, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer",
+      "Writer"
+    ],
+    "notable_awards": [],
+    "details": "Rob McElhenney is best known for his role as Mac on 'It's Always Sunny in Philadelphia', which he also co-created. He co-created and stars in 'Mythic Quest', and he co-owns the Welsh football club Wrexham AFC with Ryan Reynolds. McElhenney is recognized for his dedication to physical transformations for comedic purposes and has ventured into several business ventures, including an Irish American whiskey company.",
+    "id": "0ae603f9"
+  },
+  {
+    "name": "Harry Shearer",
+    "birth_date": "December 23, 1943",
+    "birth_place": "Los Angeles, California, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Voice Actor",
+      "Writer"
+    ],
+    "notable_awards": [
+      "Primetime Emmy Award"
+    ],
+    "details": "Harry Shearer is best known for his voice work on 'The Simpsons', where he voices multiple characters, including Mr. Burns, Smithers, and Ned Flanders. He also starred on 'Saturday Night Live' and has a successful radio program called 'Le Show'. Shearer is renowned for his versatility as a voice actor.",
+    "id": "af855088"
+  },
+  {
+    "name": "Matt LeBlanc",
+    "birth_date": "July 25, 1967",
+    "birth_place": "Newton, Massachusetts, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Golden Globe Award"
+    ],
+    "details": "Matt LeBlanc is famous for his role as Joey Tribbiani on 'Friends' and its spin-off 'Joey'. He has also starred in the TV show 'Episodes', for which he won a Golden Globe Award. LeBlanc later co-hosted 'Top Gear' and starred in the CBS sitcom 'Man with a Plan'.",
+    "id": "4bb9564c"
+  },
+  {
+    "name": "Rainn Wilson",
+    "birth_date": "January 20, 1966",
+    "birth_place": "Seattle, Washington, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer",
+      "Writer"
+    ],
+    "notable_awards": [
+      "Screen Actors Guild Award"
+    ],
+    "details": "Rainn Wilson is best known for his role as Dwight Schrute on 'The Office', which earned him widespread recognition and critical acclaim. He has also appeared in films like 'Super' and 'The Meg', and he co-founded the media company SoulPancake.",
+    "id": "e0088f74"
+  },
+  {
+    "name": "James Caan",
+    "birth_date": "March 26, 1940",
+    "death_date": "July 6, 2022",
+    "birth_place": "New York City, New York, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Emmy Award Nominee"
+    ],
+    "details": "James Caan was known for his roles in films like 'The Godfather', where he played Sonny Corleone, and 'Misery'. He also starred in 'Elf' and 'Rollerball'. Caan was known for his intensity and versatility, with a career spanning several decades.",
+    "id": "c80119ca"
+  },
+  {
+    "name": "J.K. Simmons",
+    "birth_date": "January 9, 1955",
+    "birth_place": "Detroit, Michigan, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Supporting Actor"
+    ],
+    "details": "J.K. Simmons is known for his roles in films like 'Whiplash', for which he won an Academy Award, and as J. Jonah Jameson in the 'Spider-Man' franchise. He has also appeared in TV series like 'Oz' and 'Counterpart'. Simmons is recognized for his powerful screen presence and commanding voice.",
+    "id": "89e6ba52"
+  },
+  {
+    "name": "Leandro Firmino",
+    "birth_date": "June 23, 1978",
+    "birth_place": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_roles": [
+      "City of God"
+    ],
+    "details": "Leandro Firmino is best known for his role as Li'l Zé in 'City of God', a critically acclaimed Brazilian film. He has continued to work in Brazilian cinema and television, often portraying intense and complex characters.",
+    "id": "6bc51049"
+  },
+  {
+    "name": "David Morse",
+    "birth_date": "October 11, 1953",
+    "birth_place": "Beverly, Massachusetts, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Emmy Award Nominee"
+    ],
+    "details": "David Morse is known for his roles in films like 'The Green Mile' and 'The Negotiator'. He has also appeared in TV shows like 'St. Elsewhere' and 'Treme'. Morse is often cast in authoritative roles, and his performances are noted for their depth and subtlety.",
+    "id": "f7aa9654"
+  },
+  {
+    "name": "Chris O'Dowd",
+    "birth_date": "October 9, 1979",
+    "birth_place": "Boyle, County Roscommon, Ireland",
+    "nationality": "Irish",
+    "occupation": [
+      "Actor",
+      "Comedian"
+    ],
+    "notable_awards": [
+      "Screen Actors Guild Award"
+    ],
+    "details": "Chris O'Dowd is best known for his role in 'The IT Crowd' as Roy Trenneman. He has also appeared in films like 'Bridesmaids' and 'The Sapphires'. O'Dowd's comedic talent and charming on-screen presence have made him a popular figure in both television and film.",
+    "id": "5b9d6f84"
+  },
+  {
+    "name": "Ulrich Mühe",
+    "birth_date": "June 20, 1953",
+    "death_date": "July 22, 2007",
+    "birth_place": "Grimma, East Germany",
+    "nationality": "German",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "European Film Award for Best Actor"
+    ],
+    "details": "Ulrich Mühe is best known for his role in 'The Lives of Others', which won the Academy Award for Best Foreign Language Film. Mühe's performance as a Stasi officer earned him widespread acclaim, and he was celebrated for his nuanced and powerful portrayal of complex characters.",
+    "id": "f1cfb459"
+  },
+  {
+    "name": "Ian McKellen",
+    "birth_date": "May 25, 1939",
+    "birth_place": "Burnley, Lancashire, England",
+    "nationality": "British",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Tony Award",
+      "Golden Globe Award"
+    ],
+    "details": "Ian McKellen is widely recognized for his roles as Gandalf in 'The Lord of the Rings' and 'The Hobbit' trilogies, as well as Magneto in the 'X-Men' films. He has received numerous awards, including a Tony Award for 'Amadeus' and several Olivier Awards for his stage work. McKellen is also an active supporter of LGBT rights, having publicly come out as gay in 1988 and becoming a co-founder of Stonewall UK.",
+    "id": "f69dff77"
+  },
+  {
+    "name": "Ben Kingsley",
+    "birth_date": "December 31, 1943",
+    "birth_place": "Snainton, North Riding of Yorkshire, England",
+    "nationality": "British",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Actor",
+      "BAFTA Award",
+      "Golden Globe Award"
+    ],
+    "details": "Ben Kingsley is best known for his Oscar-winning portrayal of Mahatma Gandhi in 'Gandhi'. He has also starred in 'Schindler's List', 'Sexy Beast', and 'House of Sand and Fog'. Kingsley has had a prolific career spanning over five decades, with performances in both film and television. He has also worked with Marvel Studios, portraying Trevor Slattery in 'Iron Man 3' and 'Shang-Chi and the Legend of the Ten Rings'.",
+    "id": "dc0d99c1"
+  },
+  {
+    "name": "Liam Neeson",
+    "birth_date": "June 7, 1952",
+    "birth_place": "Ballymena, County Antrim, Northern Ireland",
+    "nationality": "Northern Irish",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "Academy Award Nominee",
+      "Tony Award Nominee"
+    ],
+    "details": "Liam Neeson is known for his roles in 'Schindler's List', 'Taken', and 'Love Actually'. He has received Academy Award and Tony Award nominations, the latter for his work in 'Anna Christie' and 'The Crucible' on Broadway. Neeson gained widespread recognition for his roles in action films, particularly the 'Taken' series, which established him as an action star.",
+    "id": "069a17d2"
+  },
+  {
+    "name": "Chazz Palminteri",
+    "birth_date": "May 15, 1952",
+    "birth_place": "The Bronx, New York City, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Writer"
+    ],
+    "notable_awards": [
+      "Academy Award Nominee"
+    ],
+    "details": "Chazz Palminteri is known for his work in 'A Bronx Tale', which he wrote and adapted into a one-man show and later into a film directed by Robert De Niro. He also received an Academy Award nomination for his role in 'Bullets Over Broadway'. Palminteri has had a successful career in both film and theatre, often portraying tough and charismatic characters.",
+    "id": "fc4bab8c"
+  },
+  {
+    "name": "Sonja Sohn",
+    "birth_date": "May 9, 1964",
+    "birth_place": "Fort Benning, Georgia, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Director"
+    ],
+    "notable_roles": [
+      "The Wire",
+      "Body of Proof"
+    ],
+    "details": "Sonja Sohn is best known for her role as Detective Kima Greggs in 'The Wire'. She has also worked in 'Body of Proof' and directed the documentary 'Baltimore Rising', which focuses on activism and community efforts following Freddie Gray's death in 2015. Sohn is an advocate for social justice, often using her platform to promote community empowerment.",
+    "id": "3478d354"
+  },
+  {
+    "name": "Anne Hathaway",
+    "birth_date": "November 12, 1982",
+    "birth_place": "Brooklyn, New York City, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "notable_awards": [
+      "Academy Award for Best Supporting Actress"
+    ],
+    "details": "Anne Hathaway is known for her roles in films such as 'The Devil Wears Prada', 'Les Misérables', and 'The Dark Knight Rises'. She won an Academy Award for her role as Fantine in 'Les Misérables'. Hathaway is celebrated for her versatility and has appeared in both dramatic and comedic roles throughout her career.",
+    "id": "5bb05116"
+  },
+  {
+    "name": "James Earl Jones",
+    "birth_date": "January 17, 1931",
+    "birth_place": "Arkabutla, Mississippi, USA",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Voice Actor"
+    ],
+    "notable_awards": [
+      "Academy Honorary Award",
+      "Tony Awards"
+    ],
+    "details": "James Earl Jones is known for his deep, resonant voice, most notably as Darth Vader in the 'Star Wars' franchise and Mufasa in 'The Lion King'. He has received numerous accolades, including a Tony Award for his work on Broadway, and an honorary Academy Award for his contributions to the film industry.",
+    "id": "41f7067e"
+  },
+  {
+    "name": "Frank Finlay",
+    "birth_date": "August 6, 1926",
+    "death_date": "January 30, 2016",
+    "birth_place": "Farnworth, Lancashire, England",
+    "nationality": "British",
+    "occupation": [
+      "Actor"
+    ],
+    "notable_awards": [
+      "BAFTA Award Nominee"
+    ],
+    "details": "Frank Finlay was a British actor known for his roles in films such as 'The Pianist', 'Othello', and 'Lifeforce'. He was nominated for an Academy Award for his role as Iago in 'Othello'. Finlay was known for his powerful performances both on stage and screen.",
+    "id": "f0fc9512"
+  }
+]
