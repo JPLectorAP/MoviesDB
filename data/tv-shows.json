@@ -20,7 +20,8 @@
       "Drama",
       "Thriller"
     ],
-    "id": "e2caf830"
+    "id": "e2caf830",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
   },
   {
     "title": "The Simpsons",
@@ -42,7 +43,8 @@
       "Animation",
       "Comedy"
     ],
-    "id": "080c37f2"
+    "id": "080c37f2",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_FMjpg_UY1500_.jpg"
   },
   {
     "title": "The Wire",
@@ -65,7 +67,8 @@
       "Drama",
       "Thriller"
     ],
-    "id": "b33ec376"
+    "id": "b33ec376",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzk3MGVlYzAtYzAyNi00YjM0LWI5ZWYtMjJhZTM1NzQ0ZjAwXkEyXkFqcGc@._V1_FMjpg_UY857_.jpg"
   },
   {
     "title": "Twin Peaks",
@@ -89,7 +92,8 @@
       "Drama",
       "Mystery"
     ],
-    "id": "8b51ac28"
+    "id": "8b51ac28",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTExNzk2NjcxNTNeQTJeQWpwZ15BbWU4MDcxOTczOTIx._V1_FMjpg_UY1367_.jpg"
   },
   {
     "title": "Seinfeld",
@@ -111,7 +115,8 @@
     "genre": [
       "Comedy"
     ],
-    "id": "5649610f"
+    "id": "5649610f",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_FMjpg_UY1426_.jpg"
   },
   {
     "title": "The Sopranos",
@@ -133,7 +138,8 @@
       "Crime",
       "Drama"
     ],
-    "id": "5451e772"
+    "id": "5451e772",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzMxM2JlMTMtMGE2Ny00YmU4LWEwYmEtMTUzYjA4ZTNjNWRkXkEyXkFqcGc@._V1_FMjpg_UY1375_.jpg"
   },
   {
     "title": "Friends",
@@ -156,7 +162,8 @@
       "Comedy",
       "Romance"
     ],
-    "id": "bd104d1b"
+    "id": "bd104d1b",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQzMGZiODMtOWY1Ny00NWI1LTkwYzAtZDJiOTM2Y2VlYTllXkEyXkFqcGc@._V1_FMjpg_UY1000_.jpg"
   },
   {
     "title": "The Office",
@@ -179,7 +186,8 @@
     "genre": [
       "Comedy"
     ],
-    "id": "0039e7e3"
+    "id": "0039e7e3",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_FMjpg_UY1922_.jpg"
   },
   {
     "title": "It's Always Sunny in Philadelphia",
@@ -200,7 +208,8 @@
     "genre": [
       "Comedy"
     ],
-    "id": "2d0af56b"
+    "id": "2d0af56b",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDVjMDg4NTUtYjJmOS00NDc4LWI2NWQtYWZhZjRmMmUzNDliXkEyXkFqcGc@._V1_FMjpg_UY1350_.jpg"
   },
   {
     "title": "The IT Crowd",
@@ -221,452 +230,7 @@
     "genre": [
       "Comedy"
     ],
-    "id": "152d9bb4"
-  },
-  {
-    "title": "Black Mirror",
-    "year": "2011–",
-    "rating": 8.8,
-    "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
-    "duration": "60 min",
-    "director": "Various",
-    "writers": [
-      "Charlie Brooker"
-    ],
-    "stars": [
-      "Daniel Lapaine",
-      "Hannah John-Kamen",
-      "Michaela Coel"
-    ],
-    "genre": [
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "id": "3ae40f83"
-  },
-  {
-    "title": "Sherlock",
-    "year": "2010–2017",
-    "rating": 9.1,
-    "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
-    "duration": "90 min",
-    "director": "Various",
-    "writers": [
-      "Mark Gatiss",
-      "Steven Moffat"
-    ],
-    "stars": [
-      "Benedict Cumberbatch",
-      "Martin Freeman",
-      "Una Stubbs"
-    ],
-    "genre": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "id": "65921a4d"
-  },
-  {
-    "title": "True Detective",
-    "year": "2014–",
-    "rating": 8.9,
-    "description": "Seasonal anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
-    "duration": "55 min",
-    "director": "Various",
-    "writers": [
-      "Nic Pizzolatto"
-    ],
-    "stars": [
-      "Matthew McConaughey",
-      "Colin Farrell",
-      "Mahershala Ali"
-    ],
-    "genre": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "id": "b57114d3"
-  },
-  {
-    "title": "Fargo",
-    "year": "2014–",
-    "rating": 8.9,
-    "description": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
-    "duration": "53 min",
-    "director": "Various",
-    "writers": [
-      "Noah Hawley"
-    ],
-    "stars": [
-      "Billy Bob Thornton",
-      "Martin Freeman",
-      "Allison Tolman"
-    ],
-    "genre": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "id": "e9908e98"
-  },
-  {
-    "title": "House of Cards",
-    "year": "2013–2018",
-    "rating": 8.7,
-    "description": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
-    "duration": "51 min",
-    "director": "Various",
-    "writers": [
-      "Beau Willimon"
-    ],
-    "stars": [
-      "Kevin Spacey",
-      "Michel Gill",
-      "Robin Wright"
-    ],
-    "genre": [
-      "Drama"
-    ],
-    "id": "f9c743d4"
-  },
-  {
-    "title": "Stranger Things",
-    "year": "2016–",
-    "rating": 8.7,
-    "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
-    "duration": "51 min",
-    "director": "Various",
-    "writers": [
-      "Matt Duffer",
-      "Ross Duffer"
-    ],
-    "stars": [
-      "Millie Bobby Brown",
-      "Finn Wolfhard",
-      "Winona Ryder"
-    ],
-    "genre": [
-      "Drama",
-      "Fantasy",
-      "Horror"
-    ],
-    "id": "1f346f1b"
-  },
-  {
-    "title": "The Crown",
-    "year": "2016–",
-    "rating": 8.6,
-    "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
-    "duration": "58 min",
-    "director": "Various",
-    "writers": [
-      "Peter Morgan"
-    ],
-    "stars": [
-      "Claire Foy",
-      "Olivia Colman",
-      "Imelda Staunton"
-    ],
-    "genre": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "id": "51809539"
-  },
-  {
-    "title": "The Mandalorian",
-    "year": "2019–",
-    "rating": 8.8,
-    "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
-    "duration": "40 min",
-    "director": "Various",
-    "writers": [
-      "Jon Favreau"
-    ],
-    "stars": [
-      "Pedro Pascal",
-      "Gina Carano",
-      "Giancarlo Esposito"
-    ],
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "id": "981ebdad"
-  },
-  {
-    "title": "Rick and Morty",
-    "year": "2013–",
-    "rating": 9.2,
-    "description": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
-    "duration": "23 min",
-    "director": "Various",
-    "writers": [
-      "Dan Harmon",
-      "Justin Roiland"
-    ],
-    "stars": [
-      "Justin Roiland",
-      "Chris Parnell",
-      "Spencer Grammer"
-    ],
-    "genre": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "id": "02540577"
-  },
-  {
-    "title": "Peaky Blinders",
-    "year": "2013–2022",
-    "rating": 8.8,
-    "description": "A gangster family epic set in 1919 Birmingham, England, and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
-    "duration": "60 min",
-    "director": "Various",
-    "writers": [
-      "Steven Knight"
-    ],
-    "stars": [
-      "Cillian Murphy",
-      "Paul Anderson",
-      "Helen McCrory"
-    ],
-    "genre": [
-      "Crime",
-      "Drama"
-    ],
-    "id": "dab69d61"
-  },
-  {
-    "title": "Westworld",
-    "year": "2016–2022",
-    "rating": 8.5,
-    "description": "At the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
-    "duration": "62 min",
-    "director": "Various",
-    "writers": [
-      "Jonathan Nolan",
-      "Lisa Joy"
-    ],
-    "stars": [
-      "Evan Rachel Wood",
-      "Jeffrey Wright",
-      "Ed Harris"
-    ],
-    "genre": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "id": "8d779cf8"
-  },
-  {
-    "title": "Better Call Saul",
-    "year": "2015–2022",
-    "rating": 8.9,
-    "description": "The trials and tribulations of criminal lawyer Jimmy McGill in the time before he established his strip-mall law office in Albuquerque, New Mexico.",
-    "duration": "46 min",
-    "director": "Various",
-    "writers": [
-      "Vince Gilligan",
-      "Peter Gould"
-    ],
-    "stars": [
-      "Bob Odenkirk",
-      "Rhea Seehorn",
-      "Jonathan Banks"
-    ],
-    "genre": [
-      "Crime",
-      "Drama"
-    ],
-    "id": "ee2e1307"
-  },
-  {
-    "title": "Narcos",
-    "year": "2015–2017",
-    "rating": 8.8,
-    "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
-    "duration": "49 min",
-    "director": "Various",
-    "writers": [
-      "Chris Brancato",
-      "Carlo Bernard",
-      "Doug Miro"
-    ],
-    "stars": [
-      "Pedro Pascal",
-      "Wagner Moura",
-      "Boyd Holbrook"
-    ],
-    "genre": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "id": "2a079081"
-  },
-  {
-    "title": "Mindhunter",
-    "year": "2017–2019",
-    "rating": 8.6,
-    "description": "Set in the late 1970s - two FBI agents expand criminal science by delving into the psychology of murder and getting uneasily close to all-too-real monsters.",
-    "duration": "60 min",
-    "director": "Various",
-    "writers": [
-      "Joe Penhall",
-      "John E. Douglas"
-    ],
-    "stars": [
-      "Jonathan Groff",
-      "Holt McCallany",
-      "Anna Torv"
-    ],
-    "genre": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "id": "c74c66d1"
-  },
-  {
-    "title": "The Boys",
-    "year": "2019–",
-    "rating": 8.7,
-    "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
-    "duration": "60 min",
-    "director": "Various",
-    "writers": [
-      "Eric Kripke"
-    ],
-    "stars": [
-      "Karl Urban",
-      "Jack Quaid",
-      "Antony Starr"
-    ],
-    "genre": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "id": "1a6efac7"
-  },
-  {
-    "title": "The Witcher",
-    "year": "2019–",
-    "rating": 8.2,
-    "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
-    "duration": "60 min",
-    "director": "Various",
-    "writers": [
-      "Lauren Schmidt Hissrich"
-    ],
-    "stars": [
-      "Henry Cavill",
-      "Freya Allan",
-      "Anya Chalotra"
-    ],
-    "genre": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "id": "329cb081"
-  },
-  {
-    "title": "The Handmaid's Tale",
-    "year": "2017–",
-    "rating": 8.4,
-    "description": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
-    "duration": "60 min",
-    "director": "Various",
-    "writers": [
-      "Bruce Miller",
-      "Margaret Atwood"
-    ],
-    "stars": [
-      "Elisabeth Moss",
-      "Yvonne Strahovski",
-      "Joseph Fiennes"
-    ],
-    "genre": [
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "id": "d07e31cf"
-  },
-  {
-    "title": "Chernobyl",
-    "year": "2019",
-    "rating": 9.4,
-    "description": "In April 1986, an explosion at the Chernobyl nuclear power plant in the Soviet Union becomes one of the world's worst man-made catastrophes.",
-    "duration": "330 min",
-    "director": "Johan Renck",
-    "writers": [
-      "Craig Mazin"
-    ],
-    "stars": [
-      "Jessie Buckley",
-      "Jared Harris",
-      "Stellan Skarsgård"
-    ],
-    "genre": [
-      "Drama",
-      "History",
-      "Thriller"
-    ],
-    "id": "fd454610"
-  },
-  {
-    "title": "Mr. Robot",
-    "year": "2015–2019",
-    "rating": 8.5,
-    "description": "Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance.",
-    "duration": "49 min",
-    "director": "Various",
-    "writers": [
-      "Sam Esmail"
-    ],
-    "stars": [
-      "Rami Malek",
-      "Christian Slater",
-      "Carly Chaikin"
-    ],
-    "genre": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "id": "ec53d34e"
-  },
-  {
-    "title": "Ozark",
-    "year": "2017–2022",
-    "rating": 8.5,
-    "description": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
-    "duration": "60 min",
-    "director": "Various",
-    "writers": [
-      "Bill Dubuque",
-      "Mark Williams"
-    ],
-    "stars": [
-      "Jason Bateman",
-      "Laura Linney",
-      "Sofia Hublitz"
-    ],
-    "genre": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "id": "4c2f5e2b"
+    "id": "152d9bb4",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzkwNjJhZWYtZTRiNi00YWYzLTg3MzMtN2Y3OTllZmFmYTg0XkEyXkFqcGc@._V1_FMjpg_UY1430_.jpg"
   }
 ]

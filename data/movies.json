@@ -18,7 +18,8 @@
     "genre": [
       "Drama"
     ],
-    "id": "76895e10"
+    "id": "76895e10",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_FMjpg_UY1800_.jpg"
   },
   {
     "title": "The Godfather",
@@ -40,7 +41,8 @@
       "Crime",
       "Drama"
     ],
-    "id": "5810d66a"
+    "id": "5810d66a",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_FMjpg_UY1982_.jpg"
   },
   {
     "title": "The Dark Knight",
@@ -63,7 +65,8 @@
       "Crime",
       "Drama"
     ],
-    "id": "90741835"
+    "id": "90741835",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UY2048_.jpg"
   },
   {
     "title": "The Godfather Part II",
@@ -85,7 +88,8 @@
       "Crime",
       "Drama"
     ],
-    "id": "a33e2ede"
+    "id": "a33e2ede",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzc1OWY5MjktZDllMi00ZDEzLWEwMGItYjk1YmRhYjBjNTVlXkEyXkFqcGc@._V1_FMjpg_UY2552_.jpg"
   },
   {
     "title": "12 Angry Men",
@@ -105,7 +109,8 @@
     "genre": [
       "Drama"
     ],
-    "id": "ff51b4fc"
+    "id": "ff51b4fc",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_FMjpg_UY1500_.jpg"
   },
   {
     "title": "Schindler's List",
@@ -128,7 +133,8 @@
       "Drama",
       "History"
     ],
-    "id": "ae7f3e01"
+    "id": "ae7f3e01",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmJlMjNkZWQtODgyMi00MjExLWI2MDMtZjk2MTU5YjI1YTljXkEyXkFqcGc@._V1_FMjpg_UY960_.jpg"
   },
   {
     "title": "The Lord of the Rings: The Return of the King",
@@ -152,7 +158,8 @@
       "Adventure",
       "Drama"
     ],
-    "id": "2d1854ec"
+    "id": "2d1854ec",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_FMjpg_UY1185_.jpg"
   },
   {
     "title": "Pulp Fiction",
@@ -174,7 +181,8 @@
       "Crime",
       "Drama"
     ],
-    "id": "8a3c048f"
+    "id": "8a3c048f",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_FMjpg_UY1536_.jpg"
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -198,7 +206,8 @@
       "Adventure",
       "Drama"
     ],
-    "id": "b810a1c1"
+    "id": "b810a1c1",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_FMjpg_UY2936_.jpg"
   },
   {
     "title": "The Good, the Bad and the Ugly",
@@ -219,7 +228,8 @@
     "genre": [
       "Western"
     ],
-    "id": "5d69b4b3"
+    "id": "5d69b4b3",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTJhOTgzNDItMmRmZi00YjY1LWIzYzktOGU1YzNhMWQ1ODA0XkEyXkFqcGc@._V1_FMjpg_UY6118_.jpg"
   },
   {
     "title": "Fight Club",
@@ -240,7 +250,8 @@
     "genre": [
       "Drama"
     ],
-    "id": "3d290048"
+    "id": "3d290048",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmI2Yjg1OTAtYTY4My00NTNhLWEzY2MtNmY1N2UzMjY2YWE5XkEyXkFqcGc@._V1_FMjpg_UY1600_.jpg"
   },
   {
     "title": "Forrest Gump",
@@ -262,7 +273,8 @@
       "Drama",
       "Romance"
     ],
-    "id": "f7d24854"
+    "id": "f7d24854",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcwNzc4NjE1OV5BMl5BanBnXkFtZTcwMTE5NjkyMQ@@._V1_FMjpg_UX301_.jpg"
   },
   {
     "title": "Inception",
@@ -284,7 +296,8 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "id": "52420946"
+    "id": "52420946",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMyMzYxMDQ3NV5BMl5BanBnXkFtZTcwNTA1NTcwMw@@._V1_FMjpg_UY486_.jpg"
   },
   {
     "title": "The Lord of the Rings: The Two Towers",
@@ -308,7 +321,8 @@
       "Adventure",
       "Drama"
     ],
-    "id": "0350be17"
+    "id": "0350be17",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_FMjpg_UY1500_.jpg"
   },
   {
     "title": "The Matrix",
@@ -330,7 +344,8 @@
       "Action",
       "Sci-Fi"
     ],
-    "id": "3fd26c2e"
+    "id": "3fd26c2e",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjVkOGM1ZTctZGZmOC00MTM0LWFjYjctNjg2MTg1YTM4N2VlXkEyXkFqcGc@._V1_FMjpg_UY1383_.jpg"
   },
   {
     "title": "Goodfellas",
@@ -353,7 +368,8 @@
       "Crime",
       "Drama"
     ],
-    "id": "779d5566"
+    "id": "779d5566",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGMyN2E4OTgtZTg1Zi00ODFhLThhYjctMGRjMmVlYjYzYWI1XkEyXkFqcGc@._V1_FMjpg_UY1426_.jpg"
   },
   {
     "title": "Star Wars: Episode V - The Empire Strikes Back",
@@ -377,7 +393,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "id": "f00b4414"
+    "id": "f00b4414",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDkyZDM5NjktYjExMy00MzU1LWExZGItZjVhZjg5ZWJkMTQ5XkEyXkFqcGc@._V1_FMjpg_UY570_.jpg"
   },
   {
     "title": "One Flew Over the Cuckoo's Nest",
@@ -398,7 +415,8 @@
     "genre": [
       "Drama"
     ],
-    "id": "3a1a947e"
+    "id": "3a1a947e",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_FMjpg_UY1500_.jpg"
   },
   {
     "title": "Se7en",
@@ -420,7 +438,8 @@
       "Drama",
       "Mystery"
     ],
-    "id": "cf8192fd"
+    "id": "cf8192fd",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTcwNTc1Y2MtZjUxZC00YzE1LWE4NjYtMmRhMjM2OWJhZDhlXkEyXkFqcGc@._V1_FMjpg_UY2160_.jpg"
   },
   {
     "title": "The Silence of the Lambs",
@@ -443,7 +462,8 @@
       "Drama",
       "Thriller"
     ],
-    "id": "2f996e54"
+    "id": "2f996e54",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTk1MDI4NzItMDc2OC00NjUzLWI2MTYtNTJlMjhjNDdjZWUzXkEyXkFqcGc@._V1_FMjpg_UY1500_.jpg"
   },
   {
     "title": "It's a Wonderful Life",
@@ -467,7 +487,8 @@
       "Family",
       "Fantasy"
     ],
-    "id": "82bf3302"
+    "id": "82bf3302",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDVhMjI0OWMtM2IwNy00YTFkLWE4MWEtOTc5MDliZGYyNzliXkEyXkFqcGc@._V1_FMjpg_UY1600_.jpg"
   },
   {
     "title": "Saving Private Ryan",
@@ -488,7 +509,8 @@
       "Drama",
       "War"
     ],
-    "id": "06d2f6f2"
+    "id": "06d2f6f2",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_FMjpg_UY1177_.jpg"
   },
   {
     "title": "The Green Mile",
@@ -511,619 +533,7 @@
       "Drama",
       "Fantasy"
     ],
-    "id": "af7374cb"
-  },
-  {
-    "title": "Interstellar",
-    "year": 2014,
-    "rating": 8.6,
-    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-    "duration": "169 min",
-    "director": "Christopher Nolan",
-    "writers": [
-      "Jonathan Nolan",
-      "Christopher Nolan"
-    ],
-    "stars": [
-      "Matthew McConaughey",
-      "Anne Hathaway",
-      "Jessica Chastain"
-    ],
-    "genre": [
-      "Adventure",
-      "Drama",
-      "Sci-Fi"
-    ],
-    "id": "f1d90059"
-  },
-  {
-    "title": "City of God",
-    "year": 2002,
-    "rating": 8.6,
-    "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
-    "duration": "130 min",
-    "director": "Fernando Meirelles, Kátia Lund",
-    "writers": [
-      "Paulo Lins",
-      "Bráulio Mantovani"
-    ],
-    "stars": [
-      "Alexandre Rodrigues",
-      "Leandro Firmino",
-      "Matheus Nachtergaele"
-    ],
-    "genre": [
-      "Crime",
-      "Drama"
-    ],
-    "id": "83b2421e"
-  },
-  {
-    "title": "Terminator 2: Judgment Day",
-    "year": 1991,
-    "rating": 8.6,
-    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John, from a more advanced and powerful cyborg.",
-    "duration": "137 min",
-    "director": "James Cameron",
-    "writers": [
-      "James Cameron",
-      "William Wisher"
-    ],
-    "stars": [
-      "Arnold Schwarzenegger",
-      "Linda Hamilton",
-      "Edward Furlong"
-    ],
-    "genre": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "id": "124f569e"
-  },
-  {
-    "title": "Back to the Future",
-    "year": 1985,
-    "rating": 8.5,
-    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
-    "duration": "116 min",
-    "director": "Robert Zemeckis",
-    "writers": [
-      "Robert Zemeckis",
-      "Bob Gale"
-    ],
-    "stars": [
-      "Michael J. Fox",
-      "Christopher Lloyd",
-      "Lea Thompson"
-    ],
-    "genre": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "id": "3efd9cf7"
-  },
-  {
-    "title": "The Pianist",
-    "year": 2002,
-    "rating": 8.5,
-    "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
-    "duration": "150 min",
-    "director": "Roman Polanski",
-    "writers": [
-      "Ronald Harwood",
-      "Wladyslaw Szpilman"
-    ],
-    "stars": [
-      "Adrien Brody",
-      "Thomas Kretschmann",
-      "Frank Finlay"
-    ],
-    "genre": [
-      "Biography",
-      "Drama",
-      "War"
-    ],
-    "id": "d7ef4c92"
-  },
-  {
-    "title": "The Departed",
-    "year": 2006,
-    "rating": 8.5,
-    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
-    "duration": "151 min",
-    "director": "Martin Scorsese",
-    "writers": [
-      "William Monahan",
-      "Alan Mak",
-      "Felix Chong"
-    ],
-    "stars": [
-      "Leonardo DiCaprio",
-      "Matt Damon",
-      "Jack Nicholson"
-    ],
-    "genre": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "id": "dfed1bd6"
-  },
-  {
-    "title": "Gladiator",
-    "year": 2000,
-    "rating": 8.5,
-    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-    "duration": "155 min",
-    "director": "Ridley Scott",
-    "writers": [
-      "David Franzoni",
-      "John Logan",
-      "William Nicholson"
-    ],
-    "stars": [
-      "Russell Crowe",
-      "Joaquin Phoenix",
-      "Connie Nielsen"
-    ],
-    "genre": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "id": "1f0cc9c9"
-  },
-  {
-    "title": "The Prestige",
-    "year": 2006,
-    "rating": 8.5,
-    "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
-    "duration": "130 min",
-    "director": "Christopher Nolan",
-    "writers": [
-      "Jonathan Nolan",
-      "Christopher Nolan",
-      "Christopher Priest"
-    ],
-    "stars": [
-      "Christian Bale",
-      "Hugh Jackman",
-      "Scarlett Johansson"
-    ],
-    "genre": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "id": "1a13a963"
-  },
-  {
-    "title": "Whiplash",
-    "year": 2014,
-    "rating": 8.5,
-    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
-    "duration": "106 min",
-    "director": "Damien Chazelle",
-    "writers": [
-      "Damien Chazelle"
-    ],
-    "stars": [
-      "Miles Teller",
-      "J.K. Simmons",
-      "Melissa Benoist"
-    ],
-    "genre": [
-      "Drama",
-      "Music"
-    ],
-    "id": "49e26124"
-  },
-  {
-    "title": "The Lion King",
-    "year": 1994,
-    "rating": 8.5,
-    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
-    "duration": "88 min",
-    "director": "Roger Allers, Rob Minkoff",
-    "writers": [
-      "Irene Mecchi",
-      "Jonathan Roberts",
-      "Linda Woolverton"
-    ],
-    "stars": [
-      "Matthew Broderick",
-      "Jeremy Irons",
-      "James Earl Jones"
-    ],
-    "genre": [
-      "Animation",
-      "Adventure",
-      "Drama"
-    ],
-    "id": "ff28050b"
-  },
-  {
-    "title": "The Lives of Others",
-    "year": 2006,
-    "rating": 8.4,
-    "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
-    "duration": "137 min",
-    "director": "Florian Henckel von Donnersmarck",
-    "writers": [
-      "Florian Henckel von Donnersmarck"
-    ],
-    "stars": [
-      "Ulrich Mühe",
-      "Martina Gedeck",
-      "Sebastian Koch"
-    ],
-    "genre": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "id": "fab28fe4"
-  },
-  {
-    "title": "The Usual Suspects",
-    "year": 1995,
-    "rating": 8.5,
-    "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
-    "duration": "106 min",
-    "director": "Bryan Singer",
-    "writers": [
-      "Christopher McQuarrie"
-    ],
-    "stars": [
-      "Kevin Spacey",
-      "Gabriel Byrne",
-      "Chazz Palminteri"
-    ],
-    "genre": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "id": "5b747e07"
-  },
-  {
-    "title": "American History X",
-    "year": 1998,
-    "rating": 8.5,
-    "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
-    "duration": "119 min",
-    "director": "Tony Kaye",
-    "writers": [
-      "David McKenna"
-    ],
-    "stars": [
-      "Edward Norton",
-      "Edward Furlong",
-      "Beverly D'Angelo"
-    ],
-    "genre": [
-      "Crime",
-      "Drama"
-    ],
-    "id": "37293cc9"
-  },
-  {
-    "title": "Parasite",
-    "year": 2019,
-    "rating": 8.5,
-    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
-    "duration": "132 min",
-    "director": "Bong Joon Ho",
-    "writers": [
-      "Bong Joon Ho",
-      "Han Jin-won"
-    ],
-    "stars": [
-      "Kang-ho Song",
-      "Sun-kyun Lee",
-      "Yeo-jeong Cho"
-    ],
-    "genre": [
-      "Comedy",
-      "Drama",
-      "Thriller"
-    ],
-    "id": "0981daea"
-  },
-  {
-    "title": "Léon: The Professional",
-    "year": 1994,
-    "rating": 8.5,
-    "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
-    "duration": "110 min",
-    "director": "Luc Besson",
-    "writers": [
-      "Luc Besson"
-    ],
-    "stars": [
-      "Jean Reno",
-      "Gary Oldman",
-      "Natalie Portman"
-    ],
-    "genre": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "id": "ad91e79e"
-  },
-  {
-    "title": "The Pianist",
-    "year": 2002,
-    "rating": 8.5,
-    "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
-    "duration": "150 min",
-    "director": "Roman Polanski",
-    "writers": [
-      "Ronald Harwood",
-      "Wladyslaw Szpilman"
-    ],
-    "stars": [
-      "Adrien Brody",
-      "Thomas Kretschmann",
-      "Frank Finlay"
-    ],
-    "genre": [
-      "Biography",
-      "Drama",
-      "War"
-    ],
-    "id": "d7ef4c92"
-  },
-  {
-    "title": "Terminator 2: Judgment Day",
-    "year": 1991,
-    "rating": 8.5,
-    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John, from a more advanced and powerful cyborg.",
-    "duration": "137 min",
-    "director": "James Cameron",
-    "writers": [
-      "James Cameron",
-      "William Wisher"
-    ],
-    "stars": [
-      "Arnold Schwarzenegger",
-      "Linda Hamilton",
-      "Edward Furlong"
-    ],
-    "genre": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "id": "124f569e"
-  },
-  {
-    "title": "Back to the Future",
-    "year": 1985,
-    "rating": 8.5,
-    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
-    "duration": "116 min",
-    "director": "Robert Zemeckis",
-    "writers": [
-      "Robert Zemeckis",
-      "Bob Gale"
-    ],
-    "stars": [
-      "Michael J. Fox",
-      "Christopher Lloyd",
-      "Lea Thompson"
-    ],
-    "genre": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "id": "3efd9cf7"
-  },
-  {
-    "title": "Gladiator",
-    "year": 2000,
-    "rating": 8.5,
-    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-    "duration": "155 min",
-    "director": "Ridley Scott",
-    "writers": [
-      "David Franzoni",
-      "John Logan",
-      "William Nicholson"
-    ],
-    "stars": [
-      "Russell Crowe",
-      "Joaquin Phoenix",
-      "Connie Nielsen"
-    ],
-    "genre": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "id": "1f0cc9c9"
-  },
-  {
-    "title": "The Departed",
-    "year": 2006,
-    "rating": 8.5,
-    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
-    "duration": "151 min",
-    "director": "Martin Scorsese",
-    "writers": [
-      "William Monahan",
-      "Alan Mak",
-      "Felix Chong"
-    ],
-    "stars": [
-      "Leonardo DiCaprio",
-      "Matt Damon",
-      "Jack Nicholson"
-    ],
-    "genre": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "id": "dfed1bd6"
-  },
-  {
-    "title": "The Prestige",
-    "year": 2006,
-    "rating": 8.5,
-    "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
-    "duration": "130 min",
-    "director": "Christopher Nolan",
-    "writers": [
-      "Jonathan Nolan",
-      "Christopher Nolan",
-      "Christopher Priest"
-    ],
-    "stars": [
-      "Christian Bale",
-      "Hugh Jackman",
-      "Scarlett Johansson"
-    ],
-    "genre": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "id": "1a13a963"
-  },
-  {
-    "title": "Whiplash",
-    "year": 2014,
-    "rating": 8.5,
-    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
-    "duration": "106 min",
-    "director": "Damien Chazelle",
-    "writers": [
-      "Damien Chazelle"
-    ],
-    "stars": [
-      "Miles Teller",
-      "J.K. Simmons",
-      "Melissa Benoist"
-    ],
-    "genre": [
-      "Drama",
-      "Music"
-    ],
-    "id": "49e26124"
-  },
-  {
-    "title": "The Lion King",
-    "year": 1994,
-    "rating": 8.5,
-    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
-    "duration": "88 min",
-    "director": "Roger Allers, Rob Minkoff",
-    "writers": [
-      "Irene Mecchi",
-      "Jonathan Roberts",
-      "Linda Woolverton"
-    ],
-    "stars": [
-      "Matthew Broderick",
-      "Jeremy Irons",
-      "James Earl Jones"
-    ],
-    "genre": [
-      "Animation",
-      "Adventure",
-      "Drama"
-    ],
-    "id": "ff28050b"
-  },
-  {
-    "title": "The Lives of Others",
-    "year": 2006,
-    "rating": 8.4,
-    "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
-    "duration": "137 min",
-    "director": "Florian Henckel von Donnersmarck",
-    "writers": [
-      "Florian Henckel von Donnersmarck"
-    ],
-    "stars": [
-      "Ulrich Mühe",
-      "Martina Gedeck",
-      "Sebastian Koch"
-    ],
-    "genre": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "id": "fab28fe4"
-  },
-  {
-    "title": "American History X",
-    "year": 1998,
-    "rating": 8.5,
-    "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
-    "duration": "119 min",
-    "director": "Tony Kaye",
-    "writers": [
-      "David McKenna"
-    ],
-    "stars": [
-      "Edward Norton",
-      "Edward Furlong",
-      "Beverly D'Angelo"
-    ],
-    "genre": [
-      "Crime",
-      "Drama"
-    ],
-    "id": "37293cc9"
-  },
-  {
-    "title": "Parasite",
-    "year": 2019,
-    "rating": 8.5,
-    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
-    "duration": "132 min",
-    "director": "Bong Joon Ho",
-    "writers": [
-      "Bong Joon Ho",
-      "Han Jin-won"
-    ],
-    "stars": [
-      "Kang-ho Song",
-      "Sun-kyun Lee",
-      "Yeo-jeong Cho"
-    ],
-    "genre": [
-      "Comedy",
-      "Drama",
-      "Thriller"
-    ],
-    "id": "0981daea"
-  },
-  {
-    "title": "Léon: The Professional",
-    "year": 1994,
-    "rating": 8.5,
-    "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
-    "duration": "110 min",
-    "director": "Luc Besson",
-    "writers": [
-      "Luc Besson"
-    ],
-    "stars": [
-      "Jean Reno",
-      "Gary Oldman",
-      "Natalie Portman"
-    ],
-    "genre": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "id": "ad91e79e"
+    "id": "af7374cb",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UY740_.jpg"
   }
 ]
